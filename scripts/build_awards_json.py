@@ -14,12 +14,13 @@ def export_awards(db_path: Path, output_path: Path) -> None:
             SELECT p.id AS person_id,
                    p.name,
                    a.year,
+                   a.group_name,
                    a.score_range,
                    a.grade,
                    a.source_csv
             FROM people p
             JOIN awards a ON a.person_id = p.id
-            ORDER BY p.name, a.year, a.score_range
+            ORDER BY p.name, a.year, a.group_name, a.score_range
             """
         ).fetchall()
 
@@ -39,6 +40,7 @@ def export_awards(db_path: Path, output_path: Path) -> None:
         current["awards"].append(
             {
                 "year": row["year"],
+                "group_name": row["group_name"],
                 "score_range": row["score_range"],
                 "grade": row["grade"],
                 "source_csv": Path(row["source_csv"]).name,

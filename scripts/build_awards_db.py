@@ -35,6 +35,7 @@ YEAR_RE = re.compile(r"(\d{4})")
 class AwardRow:
     name: str
     year: int
+    group_name: str
     score_range: str
     grade: str
     source_csv: str
@@ -80,6 +81,7 @@ def collect_awards(csv_paths: list[Path]) -> list[AwardRow]:
                     AwardRow(
                         name=name,
                         year=year,
+                        group_name=row.get("group", "").strip(),
                         score_range=row.get("score_range", "").strip(),
                         grade=row.get("grade", "").strip(),
                         source_csv=str(csv_path),
@@ -109,6 +111,7 @@ def build_database(csv_paths: list[Path], output_db: Path) -> tuple[int, int]:
                 id INTEGER PRIMARY KEY AUTOINCREMENT,
                 person_id INTEGER NOT NULL,
                 year INTEGER NOT NULL,
+                group_name TEXT NOT NULL,
                 score_range TEXT NOT NULL,
                 grade TEXT NOT NULL,
                 source_csv TEXT NOT NULL,
@@ -132,12 +135,13 @@ def build_database(csv_paths: list[Path], output_db: Path) -> tuple[int, int]:
 
             conn.execute(
                 """
-                INSERT INTO awards (person_id, year, score_range, grade, source_csv)
-                VALUES (?, ?, ?, ?, ?)
+                INSERT INTO awards (person_id, year, group_name, score_range, grade, source_csv)
+                VALUES (?, ?, ?, ?, ?, ?)
                 """,
                 (
                     person_id,
                     award.year,
+                    award.group_name,
                     award.score_range,
                     award.grade,
                     award.source_csv,

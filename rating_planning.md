@@ -40,18 +40,17 @@ Can approximate that going down one contest tier results in going up one honor r
 $$P = \text{max}(100 - \alpha(t - 1) - \beta(g - 1), 0)$$
 
 $\alpha$ and $\beta$ are hyperparameters.  
-Decay based on year? Divide by $2$ for every year that passes.  
 
 ### Overall
 
-$$\text{Score} = \alpha \cdot P_\text{avg} + \beta \cdot (1 - e^{\gamma n})$$
+$$\text{Score} = \sum_{i=0}^{\text{min}(4, \, |P|-1)} \frac{0.8^i P_i}{2^y}$$
 
-$\alpha$, $\beta$, and $\gamma$ are hyperparameters (different from above).  
-
-Instead of $P_\text{avg}$, consider using a weighted sum of top results, where the best results are weighted the most, and it only takes a certain constant of top results. This also eliminates the need for the second term.
-
+$P$ is array of descending scores.
+$y$ is the difference in years. E.g. last year's contests are $y=1$.
 
 ### ML Idea
 
 Machine learning model where a score is imputed and the model tries to guess that score.  
 Then once it's good, regression to find one number.  
+
+This shouldn't be published.  

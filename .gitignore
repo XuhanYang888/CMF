@@ -1,0 +1,14 @@
+.DS_Store
+
+# Ignore local python tooling and intermediate data files
+awards.sqlite3
+build_awards_db.py
+scraper.py
+search_awards.py
+canadian_municipalities.txt
+canadian_municipalities_sources.md
+Euclid/
+CSMC/
+CIMC/
+__pycache__/
+

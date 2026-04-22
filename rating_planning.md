@@ -45,7 +45,8 @@ $\alpha$ and $\beta$ are hyperparameters.
 
 $$\text{Score} = \sum_{i=0}^{\text{min}(4, \, |P|-1)} \frac{0.8^i P_i}{2^y}$$
 
-$P$ is array of descending scores.
+$P$ is the list of scores sorted in a way such that $\text{Score}$ is maximized.  
+This means that we calculate a list of adjusted scores, before sorting and then taking the $5$ largest elements.  
 $y$ is the difference in years. E.g. last year's contests are $y=1$.
 
 ### ML Idea

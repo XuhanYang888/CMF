@@ -1,0 +1,283 @@
+category,group,score_range,name,school,location,grade,raw_text
+Canadian,I,60 - 58,CHEN HONGYI,St. George's School,Vancouver,10,CHEN HONGYI St. George's School Vancouver 10
+Canadian,I,60 - 58,HAHN MICHAEL,University Hill S.S.,Vancouver,10,HAHN MICHAEL University Hill S.S. Vancouver 10
+Canadian,I,60 - 58,UY JONATHAN,Northern S.S.,Toronto,10,UY JONATHAN Northern S.S. Toronto 10
+Canadian,I,60 - 58,WANG BRIAN,University of Toronto Schools,Toronto,10,WANG BRIAN University of Toronto Schools Toronto 10
+Canadian,I,60 - 58,WANG QINGHAO,St. Andrew's College,Aurora,10,WANG QINGHAO St. Andrew's College Aurora 10
+Canadian,I,60 - 58,YANG DANIEL,University of Toronto Schools,Toronto,9,YANG DANIEL University of Toronto Schools Toronto 9
+Canadian,II,57 - 55,BRIGHT ARTHUR,Markville S.S.,Markham,10,BRIGHT ARTHUR Markville S.S. Markham 10
+Canadian,II,57 - 55,CHAN MICHAEL,,Calgary,10,CHAN MICHAEL Calgary 10
+Canadian,II,57 - 55,CHEN JINGYU,,Calgary,10,CHEN JINGYU Calgary 10
+Canadian,II,57 - 55,HROTOVYTSKYY BOHDAN,Bishop Allen Academy,Etobicoke,10,HROTOVYTSKYY BOHDAN Bishop Allen Academy Etobicoke 10
+Canadian,II,57 - 55,HU ETHAN,Marc Garneau C.I.,North York,10,HU ETHAN Marc Garneau C.I. North York 10
+Canadian,II,57 - 55,KAHNG FRAN,White Oaks S.S.,Oakville,10,KAHNG FRAN White Oaks S.S. Oakville 10
+Canadian,II,57 - 55,KUMAR ARNAV,Webber Academy,Calgary,9,KUMAR ARNAV Webber Academy Calgary 9
+Canadian,II,57 - 55,LI YIJIA,St. Clement's School,Toronto,10,LI YIJIA St. Clement's School Toronto 10
+Canadian,II,57 - 55,LIU ELIJAH,,North York,10,LIU ELIJAH North York 10
+Canadian,II,57 - 55,LOUIE BRADLEY,Burnaby Central S.S.,Burnaby,9,LOUIE BRADLEY Burnaby Central S.S. Burnaby 9
+Canadian,II,57 - 55,LU EVAN,Vincent Massey S.S.,Windsor,9,LU EVAN Vincent Massey S.S. Windsor 9
+Canadian,II,57 - 55,WANG JERRY,Linbrook School,Oakville,9,WANG JERRY Linbrook School Oakville 9
+Canadian,II,57 - 55,WU ZHIXUAN,Langstaff S.S.,Richmond Hill,10,WU ZHIXUAN Langstaff S.S. Richmond Hill 10
+Canadian,II,57 - 55,XU CALVIN,Appleby College,Oakville,10,XU CALVIN Appleby College Oakville 10
+Canadian,II,57 - 55,YAMPOLSKY MARIA,William Lyon Mackenzie C.I.,North York,10,YAMPOLSKY MARIA William Lyon Mackenzie C.I. North York 10
+Canadian,III,54 - 52,ARORA SAT,Vincent Massey S.S.,Windsor,10,ARORA SAT Vincent Massey S.S. Windsor 10
+Canadian,III,54 - 52,BEI ER,,Vancouver,9,BEI ER Vancouver 9
+Canadian,III,54 - 52,CARLSON ANDREW,Old Scona Academic H.S.,Edmonton,10,CARLSON ANDREW Old Scona Academic H.S. Edmonton 10
+Canadian,III,54 - 52,CHEN HARRY,,North York,9,CHEN HARRY North York 9
+Canadian,III,54 - 52,CHEN RAY,University of Toronto Schools,Toronto,10,CHEN RAY University of Toronto Schools Toronto 10
+Canadian,III,54 - 52,CHOI CHRISTIAN,University of Toronto Schools,Toronto,9,CHOI CHRISTIAN University of Toronto Schools Toronto 9
+Canadian,III,54 - 52,FANG JAMES,Elgin Park S.S.,Surrey,10,FANG JAMES Elgin Park S.S. Surrey 10
+Canadian,III,54 - 52,GAO HENRY,Bur Oak S.S.,Markham,9,GAO HENRY Bur Oak S.S. Markham 9
+Canadian,III,54 - 52,HANSON LU,Pickering College,Newmarket,9,HANSON LU Pickering College Newmarket 9
+Canadian,III,54 - 52,HUANG JEFFREY,,Ottawa,9,HUANG JEFFREY Ottawa 9
+Canadian,III,54 - 52,JIA HANYI,St. Andrew's College,Aurora,10,JIA HANYI St. Andrew's College Aurora 10
+Canadian,III,54 - 52,KANG JUNXIANG,F.H. Collins School,Whitehorse,10,KANG JUNXIANG F.H. Collins School Whitehorse 10
+Canadian,III,54 - 52,KIM TAEYUN,St. John's-Ravenscourt School,Winnipeg,10,KIM TAEYUN St. John's-Ravenscourt School Winnipeg 10
+Canadian,III,54 - 52,LAI ALBERT,Pierre Elliott Trudeau H.S.,Markham,10,LAI ALBERT Pierre Elliott Trudeau H.S. Markham 10
+Canadian,III,54 - 52,LI ANNA,Moscrop S.S.,Burnaby,9,LI ANNA Moscrop S.S. Burnaby 9
+Canadian,III,54 - 52,LI DEREK,St. George's Junior School,Vancouver,9,LI DEREK St. George's Junior School Vancouver 9
+Canadian,III,54 - 52,LI JEFFREY,Colonel By S.S.,Gloucester,10,LI JEFFREY Colonel By S.S. Gloucester 10
+Canadian,III,54 - 52,LI JOSHUA,Upper Canada College (Upper Sc,Toronto,9,LI JOSHUA Upper Canada College (Upper Sc Toronto 9
+Canadian,III,54 - 52,LIU ANDY,Vincent Massey S.S.,Windsor,10,LIU ANDY Vincent Massey S.S. Windsor 10
+Canadian,III,54 - 52,LU MAX,Marc Garneau C.I.,North York,9,LU MAX Marc Garneau C.I. North York 9
+Canadian,III,54 - 52,MA DANIEL,Appleby College,Oakville,10,MA DANIEL Appleby College Oakville 10
+Canadian,III,54 - 52,PEI ERIC,Don Mills C.I.,North York,10,PEI ERIC Don Mills C.I. North York 10
+Canadian,III,54 - 52,ROJRATTANACHAI ANNA,Moscrop S.S.,Burnaby,10,ROJRATTANACHAI ANNA Moscrop S.S. Burnaby 10
+Canadian,III,54 - 52,SITU ALEC,,Vancouver,9,SITU ALEC Vancouver 9
+Canadian,III,54 - 52,SUN KIRAN,St. George's Junior School,Vancouver,9,SUN KIRAN St. George's Junior School Vancouver 9
+Canadian,III,54 - 52,SUNB RYAN,Colonel By S.S.,Gloucester,10,SUNB RYAN Colonel By S.S. Gloucester 10
+Canadian,III,54 - 52,SZETO WILLIAM,University of Toronto Schools,Toronto,10,SZETO WILLIAM University of Toronto Schools Toronto 10
+Canadian,III,54 - 52,XIE STAR,,North York,10,XIE STAR North York 10
+Canadian,III,54 - 52,XU DAVID,Lisgar C.I.,Ottawa,10,XU DAVID Lisgar C.I. Ottawa 10
+Canadian,III,54 - 52,XU YINGRUI,Appleby College,Oakville,10,XU YINGRUI Appleby College Oakville 10
+Canadian,III,54 - 52,YANG JAMES,Iroquois Ridge H.S.,Oakville,9,YANG JAMES Iroquois Ridge H.S. Oakville 9
+Canadian,III,54 - 52,YE ANDREW,Oakville Trafalgar H.S.,Oakville,10,YE ANDREW Oakville Trafalgar H.S. Oakville 10
+Canadian,III,54 - 52,ZHANG DANNY,Colonel By S.S.,Gloucester,10,ZHANG DANNY Colonel By S.S. Gloucester 10
+Canadian,III,54 - 52,ZHANG ERIC,Thornhill S.S.,Thornhill,9,ZHANG ERIC Thornhill S.S. Thornhill 9
+Canadian,III,54 - 52,ZHANG JIANZI,Pickering College,Newmarket,10,ZHANG JIANZI Pickering College Newmarket 10
+Canadian,III,54 - 52,ZHENG EVAN,St. Theresa of Lisieux C.H.S.,Richmond Hill,10,ZHENG EVAN St. Theresa of Lisieux C.H.S. Richmond Hill 10
+Canadian,IV,51 - 50,AIKEN SEBASTIAN,Pickering H.S.,Ajax,10,AIKEN SEBASTIAN Pickering H.S. Ajax 10
+Canadian,IV,51 - 50,BAI YITONG,Holy Name of Mary Col. Sch.,Mississauga,10,BAI YITONG Holy Name of Mary Col. Sch. Mississauga 10
+Canadian,IV,51 - 50,BU YIHUAN,Abbey Park H.S.,Oakville,10,BU YIHUAN Abbey Park H.S. Oakville 10
+Canadian,IV,51 - 50,CHANG CHAEYOON,Heritage Woods Secondary,Port Moody,10,CHANG CHAEYOON Heritage Woods Secondary Port Moody 10
+Canadian,IV,51 - 50,CHANG YI,King's-Edgehill School,Windsor,10,CHANG YI King's-Edgehill School Windsor 10
+Canadian,IV,51 - 50,CHEN ALAN,Milliken Mills H.S.,Markham,10,CHEN ALAN Milliken Mills H.S. Markham 10
+Canadian,IV,51 - 50,CHEN ANNIE,Havergal College North,York,10,CHEN ANNIE Havergal College North York 10
+Canadian,IV,51 - 50,CHEN TIAN,Sir John A. Macdonald S.S.,Waterloo,9,CHEN TIAN Sir John A. Macdonald S.S. Waterloo 9
+Canadian,IV,51 - 50,DALLAN MIA,Guelph C. and V.I.,Guelph,10,DALLAN MIA Guelph C. and V.I. Guelph 10
+Canadian,IV,51 - 50,FU ALEXANDER,Dr. G.W. Williams S.S,Aurora,10,FU ALEXANDER Dr. G.W. Williams S.S Aurora 10
+Canadian,IV,51 - 50,GONG ANDY,Alexander Mackenzie H.S.,Richmond Hill,10,GONG ANDY Alexander Mackenzie H.S. Richmond Hill 10
+Canadian,IV,51 - 50,GOULD GREYSON,Smithers S.S.,Smithers,10,GOULD GREYSON Smithers S.S. Smithers 10
+Canadian,IV,51 - 50,GUO DANIEL,Earl of March S.S.,Kanata,10,GUO DANIEL Earl of March S.S. Kanata 10
+Canadian,IV,51 - 50,GUO HAOLIN,Oakville Trafalgar H.S.,Oakville,9,GUO HAOLIN Oakville Trafalgar H.S. Oakville 9
+Canadian,IV,51 - 50,HAN KYU,MIN A.B. Lucas S.S.,London,10,HAN KYU MIN A.B. Lucas S.S. London 10
+Canadian,IV,51 - 50,HUANG JASON,John Fraser S.S.,Mississauga,10,HUANG JASON John Fraser S.S. Mississauga 10
+Canadian,IV,51 - 50,HUANG QIAO,White Oaks S.S.,Oakville,10,HUANG QIAO White Oaks S.S. Oakville 10
+Canadian,IV,51 - 50,HUI JIAWEN,Pinetree S.S.,Coquitlam,9,HUI JIAWEN Pinetree S.S. Coquitlam 9
+Canadian,IV,51 - 50,HUO JACQUELINE,Marc Garneau C.I.,North York,10,HUO JACQUELINE Marc Garneau C.I. North York 10
+Canadian,IV,51 - 50,JEONG HYUNWOO,St. David C.S.S.,Waterloo,9,JEONG HYUNWOO St. David C.S.S. Waterloo 9
+Canadian,IV,51 - 50,JI SHUYANG,Montreal Confucius School,Dollard des Ormeaux,10,JI SHUYANG Montreal Confucius School Dollard des Ormeaux 10
+Canadian,IV,51 - 50,JIANG MAX,Markville S.S.,Markham,9,JIANG MAX Markville S.S. Markham 9
+Canadian,IV,51 - 50,LEE EUGENE,St. Theresa of Lisieux C.H.S.,Richmond Hill,10,LEE EUGENE St. Theresa of Lisieux C.H.S. Richmond Hill 10
+Canadian,IV,51 - 50,LI JIAXUAN,Lower Canada College,Montreal,10,LI JIAXUAN Lower Canada College Montreal 10
+Canadian,IV,51 - 50,LI LANCE,Milliken Mills H.S.,Markham,10,LI LANCE Milliken Mills H.S. Markham 10
+Canadian,IV,51 - 50,LIANG ANDREW,Marc Garneau C.I.,North York,10,LIANG ANDREW Marc Garneau C.I. North York 10
+Canadian,IV,51 - 50,LIN PETER,William Lyon Mackenzie C.I.,North York,10,LIN PETER William Lyon Mackenzie C.I. North York 10
+Canadian,IV,51 - 50,LIU JOSHUA,William Lyon Mackenzie C.I.,North York,10,LIU JOSHUA William Lyon Mackenzie C.I. North York 10
+Canadian,IV,51 - 50,LU BOZHOU,Lord Byng S.S.,Vancouver,10,LU BOZHOU Lord Byng S.S. Vancouver 10
+Canadian,IV,51 - 50,LUO VERA,,North York,10,LUO VERA North York 10
+Canadian,IV,51 - 50,MA RYAN,The Woodlands Sec. School,Mississauga,9,MA RYAN The Woodlands Sec. School Mississauga 9
+Canadian,IV,51 - 50,MA TINA,Marc Garneau C.I.,North York,10,MA TINA Marc Garneau C.I. North York 10
+Canadian,IV,51 - 50,MO JING,RAN Lord Byng S.S.,Vancouver,10,MO JING RAN Lord Byng S.S. Vancouver 10
+Canadian,IV,51 - 50,OU WEN,Colonel By S.S.,Gloucester,10,OU WEN Colonel By S.S. Gloucester 10
+Canadian,IV,51 - 50,PAN YIXUAN,Collingwood School West,Vancouver,10,PAN YIXUAN Collingwood School West Vancouver 10
+Canadian,IV,51 - 50,PARK JEONGYEOL,Riverside S.S.,Port Coquitlam,10,PARK JEONGYEOL Riverside S.S. Port Coquitlam 10
+Canadian,IV,51 - 50,PENG KEXIN,Vincent Massey S.S.,Windsor,10,PENG KEXIN Vincent Massey S.S. Windsor 10
+Canadian,IV,51 - 50,PI ORELIA,University of Toronto Schools,Toronto,9,PI ORELIA University of Toronto Schools Toronto 9
+Canadian,IV,51 - 50,RUAN COLIN,Dr. G.W. Williams S.S,Aurora,10,RUAN COLIN Dr. G.W. Williams S.S Aurora 10
+Canadian,IV,51 - 50,SHEN LUCY,Georges Vanier S.S.,North York,9,SHEN LUCY Georges Vanier S.S. North York 9
+Canadian,IV,51 - 50,SHI LEO,College Jean de Brebeuf,Montreal,9,SHI LEO College Jean de Brebeuf Montreal 9
+Canadian,IV,51 - 50,SUN TIANYUE,RUBY White Oaks S.S.,Oakville,9,SUN TIANYUE RUBY White Oaks S.S. Oakville 9
+Canadian,IV,51 - 50,SUN YITAO,Montreal Confucius School,Dollard des Ormeaux,10,SUN YITAO Montreal Confucius School Dollard des Ormeaux 10
+Canadian,IV,51 - 50,TAN KASSIE,Walter Murray C.I.,Saskatoon,10,TAN KASSIE Walter Murray C.I. Saskatoon 10
+Canadian,IV,51 - 50,TANG ZIXI,,Markham,9,TANG ZIXI Markham 9
+Canadian,IV,51 - 50,WANG ALEX,Old Scona Academic H.S.,Edmonton,10,WANG ALEX Old Scona Academic H.S. Edmonton 10
+Canadian,IV,51 - 50,WANG ELON,Old Scona Academic H.S.,Edmonton,10,WANG ELON Old Scona Academic H.S. Edmonton 10
+Canadian,IV,51 - 50,WANG GEORGE,University of Toronto Schools,Toronto,9,WANG GEORGE University of Toronto Schools Toronto 9
+Canadian,IV,51 - 50,WANG JIASHENG,Coll. Sturgeon Heights Collegi,Winnipeg,10,WANG JIASHENG Coll. Sturgeon Heights Collegi Winnipeg 10
+Canadian,IV,51 - 50,WANG KING,,North York,10,WANG KING North York 10
+Canadian,IV,51 - 50,WENG ZIXIN,Pickering College,Newmarket,10,WENG ZIXIN Pickering College Newmarket 10
+Canadian,IV,51 - 50,WU WINNIE,Moscrop S.S.,Burnaby,10,WU WINNIE Moscrop S.S. Burnaby 10
+Canadian,IV,51 - 50,XIE SOPHIA,Sir John A. Macdonald S.S.,Waterloo,10,XIE SOPHIA Sir John A. Macdonald S.S. Waterloo 10
+Canadian,IV,51 - 50,YE YIFAN,Pinetree S.S.,Coquitlam,10,YE YIFAN Pinetree S.S. Coquitlam 10
+Canadian,IV,51 - 50,YUAN DEREK,Oakville Trafalgar H.S.,Oakville,9,YUAN DEREK Oakville Trafalgar H.S. Oakville 9
+Canadian,IV,51 - 50,ZAHARIA LUCAS,The Woodlands Sec. School,Mississauga,9,ZAHARIA LUCAS The Woodlands Sec. School Mississauga 9
+Canadian,IV,51 - 50,ZHANG NINA,,North York,9,ZHANG NINA North York 9
+Canadian,IV,51 - 50,ZHANG RICHARD,Marc Garneau C.I.,North York,10,ZHANG RICHARD Marc Garneau C.I. North York 10
+Canadian,IV,51 - 50,ZHANG WILLIAM,St. George's School,Vancouver,9,ZHANG WILLIAM St. George's School Vancouver 9
+Canadian,IV,51 - 50,ZHAO YIJUN,Oakville Trafalgar H.S.,Oakville,10,ZHAO YIJUN Oakville Trafalgar H.S. Oakville 10
+Canadian,IV,51 - 50,ZHOU JASON,,North York,9,ZHOU JASON North York 9
+Canadian,IV,51 - 50,ZHOU SONG,Montreal Confucius School,Dollard des Ormeaux,10,ZHOU SONG Montreal Confucius School Dollard des Ormeaux 10
+Canadian,IV,51 - 50,ZHU KEVIN,Oakville Trafalgar H.S.,Oakville,9,ZHU KEVIN Oakville Trafalgar H.S. Oakville 9
+Canadian,V,49 - 47,ALI SARAH,Marc Garneau C.I.,North York,10,ALI SARAH Marc Garneau C.I. North York 10
+Canadian,V,49 - 47,AN CURTIS,John Fraser S.S.,Mississauga,10,AN CURTIS John Fraser S.S. Mississauga 10
+Canadian,V,49 - 47,BODEN ALEX,Westdale S.S.,Hamilton,10,BODEN ALEX Westdale S.S. Hamilton 10
+Canadian,V,49 - 47,BOITOR WILLIAM,Father Bressani C.H.S.,Woodbridge,10,BOITOR WILLIAM Father Bressani C.H.S. Woodbridge 10
+Canadian,V,49 - 47,CAI ALEXANDER,Old Scona Academic H.S.,Edmonton,10,CAI ALEXANDER Old Scona Academic H.S. Edmonton 10
+Canadian,V,49 - 47,CAI WAYNE,Oakville Trafalgar H.S.,Oakville,9,CAI WAYNE Oakville Trafalgar H.S. Oakville 9
+Canadian,V,49 - 47,CAI YIZHOU,LINDA Marc Garneau C.I.,North York,9,CAI YIZHOU LINDA Marc Garneau C.I. North York 9
+Canadian,V,49 - 47,CANELEA CHRISTIAN,Father Bressani C.H.S.,Woodbridge,10,CANELEA CHRISTIAN Father Bressani C.H.S. Woodbridge 10
+Canadian,V,49 - 47,CAO JASON,Moscrop S.S.,Burnaby,10,CAO JASON Moscrop S.S. Burnaby 10
+Canadian,V,49 - 47,CAO JIARUI,Abbey Park H.S.,Oakville,9,CAO JIARUI Abbey Park H.S. Oakville 9
+Canadian,V,49 - 47,CHANDRASHEKAR KUNAAL,University of Toronto Schools,Toronto,9,CHANDRASHEKAR KUNAAL University of Toronto Schools Toronto 9
+Canadian,V,49 - 47,CHANG ANDY,Moscrop S.S.,Burnaby,9,CHANG ANDY Moscrop S.S. Burnaby 9
+Canadian,V,49 - 47,CHASE SIMON,Westdale S.S.,Hamilton,10,CHASE SIMON Westdale S.S. Hamilton 10
+Canadian,V,49 - 47,CHEN EMILY,Pierre Elliott Trudeau H.S.,Markham,10,CHEN EMILY Pierre Elliott Trudeau H.S. Markham 10
+Canadian,V,49 - 47,CHEN JONATHAN,Milliken Mills H.S.,Markham,9,CHEN JONATHAN Milliken Mills H.S. Markham 9
+Canadian,V,49 - 47,CHEN KATHERINE,Branksome Hall,Toronto,10,CHEN KATHERINE Branksome Hall Toronto 10
+Canadian,V,49 - 47,CHEN RAYMOND,Semiahmoo S.S.,Surrey,10,CHEN RAYMOND Semiahmoo S.S. Surrey 10
+Canadian,V,49 - 47,CHEN YIHUI,Kells Academy,Montreal,9,CHEN YIHUI Kells Academy Montreal 9
+Canadian,V,49 - 47,CHENG AARON,Agincourt C.I.,Scarborough,10,CHENG AARON Agincourt C.I. Scarborough 10
+Canadian,V,49 - 47,CHENG JUNCHAO,West Vancouver S.S.,West Vancouver,10,CHENG JUNCHAO West Vancouver S.S. West Vancouver 10
+Canadian,V,49 - 47,CHO WONSEOK,St. Theresa of Lisieux C.H.S.,Richmond Hill,9,CHO WONSEOK St. Theresa of Lisieux C.H.S. Richmond Hill 9
+Canadian,V,49 - 47,CHOI SARAH,St. Robert C.H.S.,Thornhill,10,CHOI SARAH St. Robert C.H.S. Thornhill 10
+Canadian,V,49 - 47,CHUNG JACKY,Walter Murray C.I.,Saskatoon,10,CHUNG JACKY Walter Murray C.I. Saskatoon 10
+Canadian,V,49 - 47,CHUNG OLIVIA,University of Toronto Schools,Toronto,10,CHUNG OLIVIA University of Toronto Schools Toronto 10
+Canadian,V,49 - 47,CHUNG ROBERT,Woburn C.I,Scarborough,9,CHUNG ROBERT Woburn C.I Scarborough 9
+Canadian,V,49 - 47,CHUNG YESUNG,St. Aloysius Gonzaga S.S.,Mississauga,10,CHUNG YESUNG St. Aloysius Gonzaga S.S. Mississauga 10
+Canadian,V,49 - 47,COUPAL EVAN,Blyth Academy Waterloo,Kitchener,10,COUPAL EVAN Blyth Academy Waterloo Kitchener 10
+Canadian,V,49 - 47,DAN WILLIAM,Fraser Heights S.S.,Surrey,9,DAN WILLIAM Fraser Heights S.S. Surrey 9
+Canadian,V,49 - 47,DEMPSEY MACKILLOP,AIDAN Bishop Carroll H.S.,Calgary,10,DEMPSEY MACKILLOP AIDAN Bishop Carroll H.S. Calgary 10
+Canadian,V,49 - 47,DONG JOHN,St. Theresa of Lisieux C.H.S.,Richmond Hill,10,DONG JOHN St. Theresa of Lisieux C.H.S. Richmond Hill 10
+Canadian,V,49 - 47,DU ERIC,Marc Garneau C.I.,North York,10,DU ERIC Marc Garneau C.I. North York 10
+Canadian,V,49 - 47,FEICE ALICE,White Oaks S.S.,Oakville,10,FEICE ALICE White Oaks S.S. Oakville 10
+Canadian,V,49 - 47,FU LAWRENCE,Fraser Heights S.S.,Surrey,9,FU LAWRENCE Fraser Heights S.S. Surrey 9
+Canadian,V,49 - 47,FU TONY,Port Moody Sr. S.S.,Port Moody,10,FU TONY Port Moody Sr. S.S. Port Moody 10
+Canadian,V,49 - 47,FUNG ERNST,RILEY Abbey Park H.S.,Oakville,10,FUNG ERNST RILEY Abbey Park H.S. Oakville 10
+Canadian,V,49 - 47,FURUKAWA SAE,Havergal College North,York,10,FURUKAWA SAE Havergal College North York 10
+Canadian,V,49 - 47,GOU DAVID,Waterloo C.I.,Waterloo,9,GOU DAVID Waterloo C.I. Waterloo 9
+Canadian,V,49 - 47,GU SOPHIA,Crestwood Prep. College North,York,9,GU SOPHIA Crestwood Prep. College North York 9
+Canadian,V,49 - 47,GUO MIRANDA,Marc Garneau C.I.,North York,10,GUO MIRANDA Marc Garneau C.I. North York 10
+Canadian,V,49 - 47,GUO RYAN,Glenforest S.S.,Mississauga,9,GUO RYAN Glenforest S.S. Mississauga 9
+Canadian,V,49 - 47,HALIM HALLEY,University of Toronto Schools,Toronto,10,HALIM HALLEY University of Toronto Schools Toronto 10
+Canadian,V,49 - 47,HAN OSCAR,JAEWON William Lyon Mackenzie C.I.,North York,9,HAN OSCAR JAEWON William Lyon Mackenzie C.I. North York 9
+Canadian,V,49 - 47,HAO SCOTT,Kitchener-Waterloo Bilingual S,Waterloo,9,HAO SCOTT Kitchener-Waterloo Bilingual S Waterloo 9
+Canadian,V,49 - 47,HARRY CHEN,St. Robert C.H.S.,Thornhill,9,HARRY CHEN St. Robert C.H.S. Thornhill 9
+Canadian,V,49 - 47,HAZRA DRON,The Woodlands Sec. School,Mississauga,9,HAZRA DRON The Woodlands Sec. School Mississauga 9
+Canadian,V,49 - 47,HEAL KOWAL,MATTHEW De La Salle College Oaklands,Toronto,10,HEAL KOWAL MATTHEW De La Salle College Oaklands Toronto 10
+Canadian,V,49 - 47,HESSAMI PILEHROOD,MARIA,North York,9,HESSAMI PILEHROOD MARIA North York 9
+Canadian,V,49 - 47,HON HEIDI,St. Clement's School,Toronto,10,HON HEIDI St. Clement's School Toronto 10
+Canadian,V,49 - 47,HU ALEX,Appleby College,Oakville,10,HU ALEX Appleby College Oakville 10
+Canadian,V,49 - 47,HU YUTING,White Oaks S.S.,Oakville,10,HU YUTING White Oaks S.S. Oakville 10
+Canadian,V,49 - 47,HUANG YOLANDA,Milliken Mills H.S.,Markham,9,HUANG YOLANDA Milliken Mills H.S. Markham 9
+Canadian,V,49 - 47,JUNG MINSEO,Bernice MacNaughton H.S.,Moncton,9,JUNG MINSEO Bernice MacNaughton H.S. Moncton 9
+Canadian,V,49 - 47,KANG JERRY,Iroquois Ridge H.S.,Oakville,10,KANG JERRY Iroquois Ridge H.S. Oakville 10
+Canadian,V,49 - 47,KIM ELVIN,Crescent School North,York,9,KIM ELVIN Crescent School North York 9
+Canadian,V,49 - 47,KIM YUMIN,Port Moody Sr. S.S.,Port Moody,9,KIM YUMIN Port Moody Sr. S.S. Port Moody 9
+Canadian,V,49 - 47,LACASSE BENJAMIN,Ecole Secondaire de,Saint-Char St-Charles-de-Bellec,10,LACASSE BENJAMIN Ecole Secondaire de Saint-Char St-Charles-de-Bellec 10
+Canadian,V,49 - 47,LAN REBECCA,,Vancouver,10,LAN REBECCA Vancouver 10
+Canadian,V,49 - 47,LE THOMAS,Lorne Park S.S.,Mississauga,10,LE THOMAS Lorne Park S.S. Mississauga 10
+Canadian,V,49 - 47,LEE AMY,West Vancouver S.S.,West Vancouver,9,LEE AMY West Vancouver S.S. West Vancouver 9
+Canadian,V,49 - 47,LEE JEONGHYUN,Newton's Grove School,Etobicoke,10,LEE JEONGHYUN Newton's Grove School Etobicoke 10
+Canadian,V,49 - 47,LEE SUSIE,The Bishop Strachan School,Toronto,10,LEE SUSIE The Bishop Strachan School Toronto 10
+Canadian,V,49 - 47,LEE WOOYONG,Terry Fox Secondary Port,Coquitlam,10,LEE WOOYONG Terry Fox Secondary Port Coquitlam 10
+Canadian,V,49 - 47,LEVINE JOSHUA,Stephen Lewis S.S.,Thornhill,10,LEVINE JOSHUA Stephen Lewis S.S. Thornhill 10
+Canadian,V,49 - 47,LI ALEX,Sentinel S.S.,West Vancouver,10,LI ALEX Sentinel S.S. West Vancouver 10
+Canadian,V,49 - 47,LI ALEXANDER,William Lyon Mackenzie C.I.,North York,10,LI ALEXANDER William Lyon Mackenzie C.I. North York 10
+Canadian,V,49 - 47,LI FENGHUA,Montreal Confucius School,Dollard des Ormeaux,9,LI FENGHUA Montreal Confucius School Dollard des Ormeaux 9
+Canadian,V,49 - 47,LI TIANREN,Lawrence Park C.I.,Toronto,9,LI TIANREN Lawrence Park C.I. Toronto 9
+Canadian,V,49 - 47,LIANG BARON,College Jean de Brebeuf,Montreal,9,LIANG BARON College Jean de Brebeuf Montreal 9
+Canadian,V,49 - 47,LIM BRIAN,St. Michael's Univ. School,Victoria,9,LIM BRIAN St. Michael's Univ. School Victoria 9
+Canadian,V,49 - 47,LIU ASHLEY,Appleby College,Oakville,9,LIU ASHLEY Appleby College Oakville 9
+Canadian,V,49 - 47,LIU KEVIN,,Vancouver,9,LIU KEVIN Vancouver 9
+Canadian,V,49 - 47,LU SAM,Colonel By S.S.,Gloucester,10,LU SAM Colonel By S.S. Gloucester 10
+Canadian,V,49 - 47,LUAN BONAN,Ross Sheppard Comp. H.S.,Edmonton,10,LUAN BONAN Ross Sheppard Comp. H.S. Edmonton 10
+Canadian,V,49 - 47,LUPU MUSLEA,NICHOLAS Academy for Gifted Children-PA,Richmond Hill,10,LUPU MUSLEA NICHOLAS Academy for Gifted Children-PA Richmond Hill 10
+Canadian,V,49 - 47,MA JACK,Old Scona Academic H.S.,Edmonton,10,MA JACK Old Scona Academic H.S. Edmonton 10
+Canadian,V,49 - 47,MAKSIMOVIC MILICA,Moscrop S.S.,Burnaby,10,MAKSIMOVIC MILICA Moscrop S.S. Burnaby 10
+Canadian,V,49 - 47,MARTINEZ JACOB,Burnaby South S.S.,Burnaby,10,MARTINEZ JACOB Burnaby South S.S. Burnaby 10
+Canadian,V,49 - 47,MO LUCY,Elgin Park S.S.,Surrey,10,MO LUCY Elgin Park S.S. Surrey 10
+Canadian,V,49 - 47,MURAWALA SHASHWAT,SATEC @ W.A. Porter C.I.,Scarborough,9,MURAWALA SHASHWAT SATEC @ W.A. Porter C.I. Scarborough 9
+Canadian,V,49 - 47,OPRISE PAUL,Cardinal Carter Academy North,York,10,OPRISE PAUL Cardinal Carter Academy North York 10
+Canadian,V,49 - 47,PANT NIKITA,Old Scona Academic H.S.,Edmonton,10,PANT NIKITA Old Scona Academic H.S. Edmonton 10
+Canadian,V,49 - 47,PARK BINNY,North Toronto Christian School North,York,10,PARK BINNY North Toronto Christian School North York 10
+Canadian,V,49 - 47,PARK JUNYOUNG,Upper Canada College (Upper Sc,Toronto,9,PARK JUNYOUNG Upper Canada College (Upper Sc Toronto 9
+Canadian,V,49 - 47,PEI ALLEN,University of Toronto Schools,Toronto,9,PEI ALLEN University of Toronto Schools Toronto 9
+Canadian,V,49 - 47,PETRIE THOMAS,College Notre Dame de Lourdes,Longueuil,10,PETRIE THOMAS College Notre Dame de Lourdes Longueuil 10
+Canadian,V,49 - 47,POCRNJIC TANIA,Moscrop S.S.,Burnaby,10,POCRNJIC TANIA Moscrop S.S. Burnaby 10
+Canadian,V,49 - 47,QIN JEFFREY,,Markham,9,QIN JEFFREY Markham 9
+Canadian,V,49 - 47,RAED ADIB,Marc Garneau C.I.,North York,9,RAED ADIB Marc Garneau C.I. North York 9
+Canadian,V,49 - 47,ROSENBERG ISAAC,William Lyon Mackenzie C.I.,North York,10,ROSENBERG ISAAC William Lyon Mackenzie C.I. North York 10
+Canadian,V,49 - 47,SCOLLIE ZACHARY,St. Ignatius H.S.,Thunder Bay,10,SCOLLIE ZACHARY St. Ignatius H.S. Thunder Bay 10
+Canadian,V,49 - 47,SHANTHIRAJAH JUDETO,Father Bressani C.H.S.,Woodbridge,10,SHANTHIRAJAH JUDETO Father Bressani C.H.S. Woodbridge 10
+Canadian,V,49 - 47,SHEN DANIEL,Holy Trinity School,Richmond Hill,9,SHEN DANIEL Holy Trinity School Richmond Hill 9
+Canadian,V,49 - 47,SHENG DAISY,,Ottawa,9,SHENG DAISY Ottawa 9
+Canadian,V,49 - 47,SHISHIDO MOMOKO,Trafalgar Castle School,Whitby,10,SHISHIDO MOMOKO Trafalgar Castle School Whitby 10
+Canadian,V,49 - 47,SRIVASTAVA VEDAANT,Sir Robert Borden H.S.,Nepean,10,SRIVASTAVA VEDAANT Sir Robert Borden H.S. Nepean 10
+Canadian,V,49 - 47,SULJANOVIC SANI,Applewood Heights S.S.,Mississauga,10,SULJANOVIC SANI Applewood Heights S.S. Mississauga 10
+Canadian,V,49 - 47,SUN BELLA,St. Robert C.H.S.,Thornhill,10,SUN BELLA St. Robert C.H.S. Thornhill 10
+Canadian,V,49 - 47,SUN CLAIRE,Ridley College M.S.,St Catharines,10,SUN CLAIRE Ridley College M.S. St Catharines 10
+Canadian,V,49 - 47,SUN YIFEI,King's-Edgehill School,Windsor,10,SUN YIFEI King's-Edgehill School Windsor 10
+Canadian,V,49 - 47,SUN ZICHAO,Walnut Grove S.S.,Langley,10,SUN ZICHAO Walnut Grove S.S. Langley 10
+Canadian,V,49 - 47,TANG JIAQI,,Markham,9,TANG JIAQI Markham 9
+Canadian,V,49 - 47,TANG YUGE,St. Elizabeth C.H.S.,Thornhill,10,TANG YUGE St. Elizabeth C.H.S. Thornhill 10
+Canadian,V,49 - 47,USURELU CORA,,Toronto,10,USURELU CORA Toronto 10
+Canadian,V,49 - 47,WAN YITONG,Waterloo C.I.,Waterloo,9,WAN YITONG Waterloo C.I. Waterloo 9
+Canadian,V,49 - 47,WANG AIDEN,,Markham,9,WANG AIDEN Markham 9
+Canadian,V,49 - 47,WANG BENJAMIN,,Mississauga,9,WANG BENJAMIN Mississauga 9
+Canadian,V,49 - 47,WANG CHAOZHONG,Crestwood Prep. College North,York,10,WANG CHAOZHONG Crestwood Prep. College North York 10
+Canadian,V,49 - 47,WANG ERVIN,Milliken Mills H.S.,Markham,10,WANG ERVIN Milliken Mills H.S. Markham 10
+Canadian,V,49 - 47,WANG GEORGE,Earl of March S.S.,Kanata,10,WANG GEORGE Earl of March S.S. Kanata 10
+Canadian,V,49 - 47,WANG JERRY,,Vancouver,9,WANG JERRY Vancouver 9
+Canadian,V,49 - 47,WANG PETER,,North York,10,WANG PETER North York 10
+Canadian,V,49 - 47,WANG RUI,YI College Jean de Brebeuf,Montreal,10,WANG RUI YI College Jean de Brebeuf Montreal 10
+Canadian,V,49 - 47,WANG ZHIXUAN,Upper Canada College (Upper Sc,Toronto,10,WANG ZHIXUAN Upper Canada College (Upper Sc Toronto 10
+Canadian,V,49 - 47,WASEF VERONICA,St. Robert C.H.S.,Thornhill,9,WASEF VERONICA St. Robert C.H.S. Thornhill 9
+Canadian,V,49 - 47,WEN SIGIL,Marc Garneau C.I.,North York,10,WEN SIGIL Marc Garneau C.I. North York 10
+Canadian,V,49 - 47,WHALE NATHAN,Martingrove C.I.,Etobicoke,10,WHALE NATHAN Martingrove C.I. Etobicoke 10
+Canadian,V,49 - 47,WU ANDREW,Marc Garneau C.I.,North York,10,WU ANDREW Marc Garneau C.I. North York 10
+Canadian,V,49 - 47,WU RAYMOND,,North York,9,WU RAYMOND North York 9
+Canadian,V,49 - 47,WU SOPHY,Havergal College North,York,10,WU SOPHY Havergal College North York 10
+Canadian,V,49 - 47,WU TIANYI,Claremont S.S.,Victoria,10,WU TIANYI Claremont S.S. Victoria 10
+Canadian,V,49 - 47,WU YIHUI,Abbey Park H.S.,Oakville,9,WU YIHUI Abbey Park H.S. Oakville 9
+Canadian,V,49 - 47,XIAO EDWARD,University of Toronto Schools,Toronto,9,XIAO EDWARD University of Toronto Schools Toronto 9
+Canadian,V,49 - 47,XIAO JUNXI,Bur Oak S.S.,Markham,10,XIAO JUNXI Bur Oak S.S. Markham 10
+Canadian,V,49 - 47,XING CLIFFORD,Pierre Elliott Trudeau H.S.,Markham,10,XING CLIFFORD Pierre Elliott Trudeau H.S. Markham 10
+Canadian,V,49 - 47,XU GRACE,Pierre Elliott Trudeau H.S.,Markham,10,XU GRACE Pierre Elliott Trudeau H.S. Markham 10
+Canadian,V,49 - 47,XU WENYAN,Ridley College M.S.,St Catharines,9,XU WENYAN Ridley College M.S. St Catharines 9
+Canadian,V,49 - 47,YAN DANIEL,Hillfield-Strathallan Coll. H.,Hamilton,10,YAN DANIEL Hillfield-Strathallan Coll. H. Hamilton 10
+Canadian,V,49 - 47,YAN PEIYUAN,Montreal Confucius School,Dollard des Ormeaux,9,YAN PEIYUAN Montreal Confucius School Dollard des Ormeaux 9
+Canadian,V,49 - 47,YANG HENRY,St. Robert C.H.S.,Thornhill,10,YANG HENRY St. Robert C.H.S. Thornhill 10
+Canadian,V,49 - 47,YANG OLIVIA,Walnut Grove S.S.,Langley,10,YANG OLIVIA Walnut Grove S.S. Langley 10
+Canadian,V,49 - 47,YANG RENA,The Bishop Strachan School,Toronto,9,YANG RENA The Bishop Strachan School Toronto 9
+Canadian,V,49 - 47,YANG SAMUEL,Markville S.S.,Markham,9,YANG SAMUEL Markville S.S. Markham 9
+Canadian,V,49 - 47,YANG SHUHAN,,Markham,10,YANG SHUHAN Markham 10
+Canadian,V,49 - 47,YANG THOMAS,St. Theresa of Lisieux C.H.S.,Richmond Hill,9,YANG THOMAS St. Theresa of Lisieux C.H.S. Richmond Hill 9
+Canadian,V,49 - 47,YELAMARTI SHANMUKH,White Oaks S.S.,Oakville,10,YELAMARTI SHANMUKH White Oaks S.S. Oakville 10
+Canadian,V,49 - 47,YIDI CHEN,Thornhill S.S.,Thornhill,9,YIDI CHEN Thornhill S.S. Thornhill 9
+Canadian,V,49 - 47,YOSHIDA RIA,Brookes Westshore,Victoria,10,YOSHIDA RIA Brookes Westshore Victoria 10
+Canadian,V,49 - 47,YU IVAN,Unionville H.S.,Markham,10,YU IVAN Unionville H.S. Markham 10
+Canadian,V,49 - 47,YUN DAVID,William Lyon Mackenzie C.I.,North York,9,YUN DAVID William Lyon Mackenzie C.I. North York 9
+Canadian,V,49 - 47,ZHANG ELLINA,St. Theresa of Lisieux C.H.S.,Richmond Hill,10,ZHANG ELLINA St. Theresa of Lisieux C.H.S. Richmond Hill 10
+Canadian,V,49 - 47,ZHANG EMILY,Eden H.S.,St Catharines,9,ZHANG EMILY Eden H.S. St Catharines 9
+Canadian,V,49 - 47,ZHANG KYLEEN,Acadia Jr. H.S.,Winnipeg,9,ZHANG KYLEEN Acadia Jr. H.S. Winnipeg 9
+Canadian,V,49 - 47,ZHANG ROSE,Acadia Jr. H.S.,Winnipeg,9,ZHANG ROSE Acadia Jr. H.S. Winnipeg 9
+Canadian,V,49 - 47,ZHANG RYAN,,North York,9,ZHANG RYAN North York 9
+Canadian,V,49 - 47,ZHANG SHIRAN,St. John's School,Vancouver,10,ZHANG SHIRAN St. John's School Vancouver 10
+Canadian,V,49 - 47,ZHANG ZICHENG,Hawthorn School for Girls,North York,10,ZHANG ZICHENG Hawthorn School for Girls North York 10
+Canadian,V,49 - 47,ZHANGAM WILLIAM,Pinetree S.S.,Coquitlam,10,ZHANGAM WILLIAM Pinetree S.S. Coquitlam 10
+Canadian,V,49 - 47,ZHAO RUOYU,Branksome Hall,Toronto,10,ZHAO RUOYU Branksome Hall Toronto 10
+Canadian,V,49 - 47,ZHAO SOPHIE,Pinetree S.S.,Coquitlam,10,ZHAO SOPHIE Pinetree S.S. Coquitlam 10
+Canadian,V,49 - 47,ZHAO YUQI,Craig Kielburger S.S.,Milton,10,ZHAO YUQI Craig Kielburger S.S. Milton 10
+Canadian,V,49 - 47,ZHENG EVELINA,Milliken Mills H.S.,Markham,9,ZHENG EVELINA Milliken Mills H.S. Markham 9
+Canadian,V,49 - 47,ZHENG SILVIA,Fraser Heights S.S.,Surrey,9,ZHENG SILVIA Fraser Heights S.S. Surrey 9
+Canadian,V,49 - 47,ZHITNITSKY MARK,Kitsilano S.S. (English),Vancouver,9,ZHITNITSKY MARK Kitsilano S.S. (English) Vancouver 9
+Canadian,V,49 - 47,ZHOU AARON,Fraser Heights S.S.,Surrey,10,ZHOU AARON Fraser Heights S.S. Surrey 10
+Canadian,V,49 - 47,ZHOU ANGELA,ZITIAN Magee S.S.,Vancouver,9,ZHOU ANGELA ZITIAN Magee S.S. Vancouver 9
+Canadian,V,49 - 47,ZHOU HAOCHEN,Sacred Heart C.H.S.,Newmarket,10,ZHOU HAOCHEN Sacred Heart C.H.S. Newmarket 10
+Canadian,V,49 - 47,ZHOU JOE,St. Robert C.H.S.,Thornhill,10,ZHOU JOE St. Robert C.H.S. Thornhill 10
+Canadian,V,49 - 47,ZHOU MICHELLE,Burnaby Mountain S.S.,Burnaby,9,ZHOU MICHELLE Burnaby Mountain S.S. Burnaby 9
+Canadian,V,49 - 47,ZHOU YANG,Montreal Confucius School,Dollard des Ormeaux,9,ZHOU YANG Montreal Confucius School Dollard des Ormeaux 9
+Canadian,V,49 - 47,ZHU BINQI,Trafalgar Castle School,Whitby,10,ZHU BINQI Trafalgar Castle School Whitby 10
+Canadian,V,49 - 47,ZHU LUCIA,College Jean de Brebeuf,Montreal,9,ZHU LUCIA College Jean de Brebeuf Montreal 9
+Canadian,V,49 - 47,ZOU XIYUAN,Ancaster H.S.,Ancaster,10,ZOU XIYUAN Ancaster H.S. Ancaster 10

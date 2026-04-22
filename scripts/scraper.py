@@ -165,6 +165,7 @@ CANADIAN_MUNICIPALITIES = {
     "surrey",
     "thornhill",
     "toronto",
+    "unionville",
     "vancouver",
     "vaughan",
     "vernon",
@@ -342,7 +343,12 @@ def parse_euclid_or_csmc_row_text(row_text: str) -> tuple[str, str, str, str] | 
     return name, school, location, grade
 
 
-def extract_html_rows(html_text: str, row_class_token: str) -> list[dict[str, str]]:
+def extract_html_rows(html_text: str, row_class_token: str | list[str]) -> list[dict[str, str]]:
+    def row_class_matches(class_attr: str, row_class_token: str | list[str]) -> bool:
+        if isinstance(row_class_token, str):
+            return row_class_token in class_attr
+        return any(token in class_attr for token in row_class_token)
+
     rows: list[dict[str, str]] = []
     in_student_section = False
     current_group = ""
@@ -388,7 +394,7 @@ def extract_html_rows(html_text: str, row_class_token: str) -> list[dict[str, st
             current_score_range = group_match.group(2)
             continue
 
-        if row_class_token not in class_attr:
+        if not row_class_matches(class_attr, row_class_token):
             continue
 
         parsed = parse_euclid_or_csmc_row_text(div_text)
@@ -420,15 +426,15 @@ def extract_euclid_rows(html_text: str) -> list[dict[str, str]]:
 
 
 def extract_csmc_rows(html_text: str) -> list[dict[str, str]]:
-    return extract_html_rows(html_text, "h3")
+    return extract_html_rows(html_text, ["h3", "h4"])
 
 
 def extract_cimc_rows_from_html(html_text: str) -> list[dict[str, str]]:
-    return extract_html_rows(html_text, "h3")
+    return extract_html_rows(html_text, ["h3", "h4"])
 
 
 def extract_pascal_rows_from_html(html_text: str) -> list[dict[str, str]]:
-    return extract_html_rows(html_text, "h3")
+    return extract_html_rows(html_text, ["h3", "h4"])
 
 
 def write_csv(rows: list[dict[str, str]], out_path: Path) -> None:

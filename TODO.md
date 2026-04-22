@@ -1,13 +1,13 @@
-## general
-- add fgh, gauss
-- implement rating
-- think about how to fix duplicate names
+## General
+- Add FGH and Gauss
+- Implement rating system
+- Fix duplicate names
 
-## web ui
-- searching improvements
-- switch first and last for display
-- groups I-V instead of score ranges
-- show which contest more clearly
+## Web UI
+- Searching improvements
+- Switch first and last for display
+- Groups I-V instead of score ranges
+- Show which contest more clearly
 
-## future
-- use react for backend
+## Future
+- Use React for backend

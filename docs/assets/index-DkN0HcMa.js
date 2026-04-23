@@ -12637,6 +12637,11 @@ function p() {
     () => (i?.results ? i.results.reduce((e, t) => e + t.awards.length, 0) : 0),
     [i],
   );
+  function nameMatchesQuery(name, query) {
+    const normalizedName = name.toLowerCase();
+    const tokens = query.trim().toLowerCase().split(/\s+/);
+    return tokens.every((token) => normalizedName.includes(token));
+  }
   function p(t) {
     t.preventDefault();
     let r = e.trim();
@@ -12645,9 +12650,7 @@ function p() {
       return;
     }
     (s(!0), u(``));
-    let i = n
-      .filter((e) => e.name.toLowerCase().includes(r.toLowerCase()))
-      .map((e) => ({ ...e }));
+    let i = n.filter((e) => nameMatchesQuery(e.name, r)).map((e) => ({ ...e }));
     (a({ query: r, count: i.length, results: i }), s(!1));
   }
   return (0, f.jsx)(`div`, {

@@ -46,6 +46,7 @@ SCHOOL_END_KEYWORDS = {
     "s.s",
     "d.h.s",
     "c.i",
+    "c.v.i",
     "c.h.s",
     "c.s.s",
     "c.s.c",

@@ -40,6 +40,8 @@ Can approximate that going down one contest tier results in going up one honor r
 $$P = \text{max}(100 - \alpha(t - 1) - \beta(g - 1), 0)$$
 
 $\alpha$ and $\beta$ are hyperparameters.  
+$t$ is the tier of the contest.
+$g$ is the group they are in.
 
 ### Overall
 

@@ -12614,6 +12614,9 @@ function awardSummary(t) {
     ? `${t.year} ${n} Group ${t.group_name}`
     : `${t.year} ${n}`;
 }
+function formatRating(e) {
+  return typeof e == `number` && Number.isFinite(e) ? e.toFixed(2) : null;
+}
 function p() {
   let [e, t] = (0, l.useState)(``),
     [n, r] = (0, l.useState)([]),
@@ -12739,8 +12742,23 @@ function p() {
                             (0, f.jsxs)(`div`, {
                               className: `person-top`,
                               children: [
-                                (0, f.jsx)(`h2`, {
-                                  children: formatName(e.name),
+                                (0, f.jsxs)(`div`, {
+                                  className: `person-name-wrap`,
+                                  children: [
+                                    (0, f.jsx)(`h2`, {
+                                      children: formatName(e.name),
+                                    }),
+                                    formatRating(e.rating) &&
+                                      (0, f.jsxs)(`span`, {
+                                        className: `rating-pill`,
+                                        children: [
+                                          `Rating `,
+                                          (0, f.jsx)(`strong`, {
+                                            children: formatRating(e.rating),
+                                          }),
+                                        ],
+                                      }),
+                                  ],
                                 }),
                                 (0, f.jsxs)(`span`, {
                                   children: [e.awards.length, ` awards`],

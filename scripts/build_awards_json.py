@@ -27,12 +27,14 @@ def export_awards(db_path: Path, output_path: Path) -> None:
             """
             SELECT p.id AS person_id,
                    p.name,
+                   r.rating,
                    a.year,
                    a.group_name,
                    a.score_range,
                    a.grade,
                    a.source_csv
             FROM people p
+            LEFT JOIN ratings r ON r.person_id = p.id
             JOIN awards a ON a.person_id = p.id
             """
         ).fetchall()
@@ -58,6 +60,11 @@ def export_awards(db_path: Path, output_path: Path) -> None:
             current = {
                 "id": row["person_id"],
                 "name": row["name"],
+                "rating": (
+                    round(float(row["rating"]), 2)
+                    if row["rating"] is not None
+                    else None
+                ),
                 "awards": [],
             }
 

@@ -423,7 +423,7 @@ def extract_html_rows(html_text: str, row_class_token: str | list[str]) -> list[
 
 
 def extract_euclid_rows(html_text: str) -> list[dict[str, str]]:
-    return extract_html_rows(html_text, "fs7")
+    return extract_html_rows(html_text, ["fs6", "fs7"])
 
 
 def extract_csmc_rows(html_text: str) -> list[dict[str, str]]:

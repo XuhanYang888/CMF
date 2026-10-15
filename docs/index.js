@@ -12617,6 +12617,76 @@ function awardSummary(t) {
 function formatRating(e) {
   return typeof e == `number` && Number.isFinite(e) ? e.toFixed(2) : null;
 }
+function personCard(e, rank) {
+  return (0, f.jsxs)(
+    `li`,
+    {
+      className: `person-card`,
+      children: [
+        (0, f.jsxs)(`div`, {
+          className: `person-top`,
+          children: [
+            (0, f.jsxs)(`div`, {
+              className: `person-name-wrap`,
+              children: [
+                rank != null &&
+                  (0, f.jsx)(`span`, {
+                    className: `rank`,
+                    children: rank,
+                  }),
+                (0, f.jsx)(`h2`, {
+                  children: formatName(e.name),
+                }),
+                formatRating(e.rating) &&
+                  (0, f.jsxs)(`span`, {
+                    className: `rating-pill`,
+                    children: [
+                      `Rating `,
+                      (0, f.jsx)(`strong`, {
+                        children: formatRating(e.rating),
+                      }),
+                    ],
+                  }),
+              ],
+            }),
+            (0, f.jsxs)(`span`, {
+              children: [e.awards.length, ` awards`],
+            }),
+          ],
+        }),
+        (0, f.jsx)(`ul`, {
+          className: `awards-list`,
+          children: e.awards.map((t, n) =>
+            (0, f.jsxs)(
+              `li`,
+              {
+                children: [
+                  (0, f.jsx)(`div`, {
+                    children: (0, f.jsx)(`strong`, {
+                      children: awardSummary(t),
+                    }),
+                  }),
+                  (0, f.jsxs)(`div`, {
+                    children: [
+                      (0, f.jsxs)(`span`, {
+                        children: [`Grade `, t.grade],
+                      }),
+                      (0, f.jsx)(`span`, {
+                        children: t.source_csv,
+                      }),
+                    ],
+                  }),
+                ],
+              },
+              `${e.id}-${t.year}-${t.source_csv}-${t.group_name}-${n}`,
+            ),
+          ),
+        }),
+      ],
+    },
+    e.id,
+  );
+}
 function p() {
   let [e, t] = (0, l.useState)(``),
     [n, r] = (0, l.useState)([]),
@@ -12639,6 +12709,21 @@ function p() {
   let d = (0, l.useMemo)(
     () => (i?.results ? i.results.reduce((e, t) => e + t.awards.length, 0) : 0),
     [i],
+  );
+  let topRated = (0, l.useMemo)(
+    () =>
+      [...n]
+        .filter(
+          (person) =>
+            typeof person.rating === `number` && Number.isFinite(person.rating),
+        )
+        .sort(
+          (a, b) =>
+            b.rating - a.rating ||
+            formatName(a.name).localeCompare(formatName(b.name)),
+        )
+        .slice(0, 50),
+    [n],
   );
   function nameMatchesQuery(name, query) {
     const normalizedName = name.toLowerCase();
@@ -12671,7 +12756,7 @@ function p() {
             (0, f.jsx)(`h1`, { children: `Name Search` }),
             (0, f.jsx)(`p`, {
               className: `subtle`,
-              children: `Find matching students and browse all recorded awards.`,
+              children: `Search by name, or browse the top 50 ratings.`,
             }),
           ],
         }),
@@ -12706,99 +12791,70 @@ function p() {
             className: `meta`,
             children: `Loading awards data...`,
           }),
-        i &&
+        n.length > 0 &&
           (0, f.jsxs)(`section`, {
             className: `results`,
             children: [
+              i &&
+                (0, f.jsxs)(`div`, {
+                  children: [
+                    (0, f.jsxs)(`div`, {
+                      className: `results-head`,
+                      children: [
+                        (0, f.jsxs)(`p`, {
+                          children: [
+                            (0, f.jsx)(`strong`, { children: i.count }),
+                            ` match(es) for `,
+                            (0, f.jsx)(`strong`, { children: i.query }),
+                          ],
+                        }),
+                        (0, f.jsxs)(`p`, {
+                          className: `meta`,
+                          children: [d, ` total award record(s)`],
+                        }),
+                      ],
+                    }),
+                    i.count === 0
+                      ? (0, f.jsx)(`p`, {
+                          className: `empty`,
+                          children: `No matches found.`,
+                        })
+                      : (0, f.jsx)(`ul`, {
+                          className: `people`,
+                          children: i.results.map((e) => personCard(e)),
+                        }),
+                  ],
+                }),
               (0, f.jsxs)(`div`, {
-                className: `results-head`,
+                className: `leaderboard`,
                 children: [
-                  (0, f.jsxs)(`p`, {
+                  (0, f.jsxs)(`div`, {
+                    className: `results-head`,
                     children: [
-                      (0, f.jsx)(`strong`, { children: i.count }),
-                      ` match(es) for `,
-                      (0, f.jsx)(`strong`, { children: i.query }),
+                      (0, f.jsx)(`p`, {
+                        children: (0, f.jsx)(`strong`, {
+                          children: `Leaderboard`,
+                        }),
+                      }),
+                      (0, f.jsx)(`p`, {
+                        className: `meta`,
+                        children: `Top 50 by rating`,
+                      }),
                     ],
                   }),
-                  (0, f.jsxs)(`p`, {
-                    className: `meta`,
-                    children: [d, ` total award record(s)`],
-                  }),
+                  topRated.length === 0
+                    ? (0, f.jsx)(`p`, {
+                        className: `empty`,
+                        children: `No rated students yet.`,
+                      })
+                    : (0, f.jsx)(`ol`, {
+                        className: `people`,
+                        children: topRated.map((e, index) =>
+                          personCard(e, index + 1),
+                        ),
+                      }),
                 ],
               }),
-              i.count === 0
-                ? (0, f.jsx)(`p`, {
-                    className: `empty`,
-                    children: `No matches found.`,
-                  })
-                : (0, f.jsx)(`ul`, {
-                    className: `people`,
-                    children: i.results.map((e) =>
-                      (0, f.jsxs)(
-                        `li`,
-                        {
-                          className: `person-card`,
-                          children: [
-                            (0, f.jsxs)(`div`, {
-                              className: `person-top`,
-                              children: [
-                                (0, f.jsxs)(`div`, {
-                                  className: `person-name-wrap`,
-                                  children: [
-                                    (0, f.jsx)(`h2`, {
-                                      children: formatName(e.name),
-                                    }),
-                                    formatRating(e.rating) &&
-                                      (0, f.jsxs)(`span`, {
-                                        className: `rating-pill`,
-                                        children: [
-                                          `Rating `,
-                                          (0, f.jsx)(`strong`, {
-                                            children: formatRating(e.rating),
-                                          }),
-                                        ],
-                                      }),
-                                  ],
-                                }),
-                                (0, f.jsxs)(`span`, {
-                                  children: [e.awards.length, ` awards`],
-                                }),
-                              ],
-                            }),
-                            (0, f.jsx)(`ul`, {
-                              className: `awards-list`,
-                              children: e.awards.map((t, n) =>
-                                (0, f.jsxs)(
-                                  `li`,
-                                  {
-                                    children: [
-                                      (0, f.jsx)(`div`, {
-                                        children: (0, f.jsx)(`strong`, {
-                                          children: awardSummary(t),
-                                        }),
-                                      }),
-                                      (0, f.jsxs)(`div`, {
-                                        children: [
-                                          (0, f.jsxs)(`span`, {
-                                            children: [`Grade `, t.grade],
-                                          }),
-                                          (0, f.jsx)(`span`, {
-                                            children: t.source_csv,
-                                          }),
-                                        ],
-                                      }),
-                                    ],
-                                  },
-                                  `${e.id}-${t.year}-${t.source_csv}-${t.group_name}-${n}`,
-                                ),
-                              ),
-                            }),
-                          ],
-                        },
-                        e.id,
-                      ),
-                    ),
-                  }),
             ],
           }),
       ],

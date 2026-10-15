@@ -42,7 +42,7 @@ import re
 import sqlite3
 import sys
 from dataclasses import dataclass
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 
@@ -277,7 +277,7 @@ def store_ratings(
         """
     )
 
-    now = datetime.now(datetime.UTC).replace(microsecond=0).isoformat()
+    now = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
 
     rating_rows: list[tuple[int, float, int, int, str, str]] = []
     for person_id, (_name, awards) in people.items():

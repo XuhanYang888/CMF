@@ -1,1 +1,255 @@
 category,group,score_range,name,school,location,grade,raw_text
+Canadian,I,99 - 95,GUO THOMAS,,North York,9,GUO THOMAS North York 9
+Canadian,I,99 - 95,HALIM HOWARD,University of Toronto Schools,Toronto,10,HALIM HOWARD University of Toronto Schools Toronto 10
+Canadian,I,99 - 95,LIN ANDREW,University Hill S.S.,Vancouver,11,LIN ANDREW University Hill S.S. Vancouver 11
+Canadian,I,99 - 95,SUN KAI,A.B. Lucas S.S.,London,11,SUN KAI A.B. Lucas S.S. London 11
+Canadian,I,99 - 95,XIONG RUI,MING Western Canada H.S.,Calgary,12,XIONG RUI MING Western Canada H.S. Calgary 12
+Canadian,I,99 - 95,YUEN JASON,Pierre Elliott Trudeau H.S.,Markham,12,YUEN JASON Pierre Elliott Trudeau H.S. Markham 12
+Canadian,II,94 - 90,CHOW STEVEN,Albert Campbell C.I.,Scarborough,11,CHOW STEVEN Albert Campbell C.I. Scarborough 11
+Canadian,II,94 - 90,DU TINGDA,Langstaff S.S.,Richmond Hill,12,DU TINGDA Langstaff S.S. Richmond Hill 12
+Canadian,II,94 - 90,FENG LEO,Vincent Massey S.S.,Windsor,12,FENG LEO Vincent Massey S.S. Windsor 12
+Canadian,II,94 - 90,GAO DICHUAN,Appleby College,Oakville,11,GAO DICHUAN Appleby College Oakville 11
+Canadian,II,94 - 90,JIAO XINYU,Western Canada H.S.,Calgary,12,JIAO XINYU Western Canada H.S. Calgary 12
+Canadian,II,94 - 90,KANG RICHARD,Dr. E.P. Scarlett H.S.,Calgary,11,KANG RICHARD Dr. E.P. Scarlett H.S. Calgary 11
+Canadian,II,94 - 90,KROKHINE ANNA,University of Toronto Schools,Toronto,9,KROKHINE ANNA University of Toronto Schools Toronto 9
+Canadian,II,94 - 90,MO GEORGE,Bayview S.S.,Richmond Hill,11,MO GEORGE Bayview S.S. Richmond Hill 11
+Canadian,II,94 - 90,RONG VICTOR,Marc Garneau C.I.,North York,10,RONG VICTOR Marc Garneau C.I. North York 10
+Canadian,II,94 - 90,SHAN YINGCHAO,Richmond Hill H.S.,Richmond Hill,12,SHAN YINGCHAO Richmond Hill H.S. Richmond Hill 12
+Canadian,II,94 - 90,SUN LINYIN,Victoria Park C.I.,North York,12,SUN LINYIN Victoria Park C.I. North York 12
+Canadian,II,94 - 90,TANG DAVID,University of Toronto Schools,Toronto,9,TANG DAVID University of Toronto Schools Toronto 9
+Canadian,II,94 - 90,WANG EDGAR,College Jean de Brebeuf,Montreal,10,WANG EDGAR College Jean de Brebeuf Montreal 10
+Canadian,II,94 - 90,WANG YI,JIE The Woodlands Sec. School,Mississauga,12,WANG YI JIE The Woodlands Sec. School Mississauga 12
+Canadian,II,94 - 90,WEN YUNFEI,Walter Murray C.I.,Saskatoon,11,WEN YUNFEI Walter Murray C.I. Saskatoon 11
+Canadian,II,94 - 90,WENG YUE,Unionville H.S.,Markham,12,WENG YUE Unionville H.S. Markham 12
+Canadian,II,94 - 90,ZHAO WILLIAM,Richmond Hill H.S.,Richmond Hill,10,ZHAO WILLIAM Richmond Hill H.S. Richmond Hill 10
+Canadian,II,94 - 90,ZHOU DANIEL,Centennial Collegiate,Saskatoon,12,ZHOU DANIEL Centennial Collegiate Saskatoon 12
+Canadian,II,94 - 90,ZHOU SAM,,Vancouver,10,ZHOU SAM Vancouver 10
+Canadian,III,89 - 86,BAO JERRY,,North York,11,BAO JERRY North York 11
+Canadian,III,89 - 86,CAI WILLIAM,The Woodlands Sec. School,Mississauga,12,CAI WILLIAM The Woodlands Sec. School Mississauga 12
+Canadian,III,89 - 86,CHA JAEYOON,Western Canada H.S.,Calgary,11,CHA JAEYOON Western Canada H.S. Calgary 11
+Canadian,III,89 - 86,CHEN LUOFEI,,Vancouver,11,CHEN LUOFEI Vancouver 11
+Canadian,III,89 - 86,CHEN ZHONGQI,Bayview S.S.,Richmond Hill,12,CHEN ZHONGQI Bayview S.S. Richmond Hill 12
+Canadian,III,89 - 86,GONG YUANYUE,Pierre Elliott Trudeau H.S.,Markham,11,GONG YUANYUE Pierre Elliott Trudeau H.S. Markham 11
+Canadian,III,89 - 86,HESSAMI PILEHROOD,ELNAZ Marc Garneau C.I.,North York,11,HESSAMI PILEHROOD ELNAZ Marc Garneau C.I. North York 11
+Canadian,III,89 - 86,HUANG YUSHU,Marc Garneau C.I.,North York,12,HUANG YUSHU Marc Garneau C.I. North York 12
+Canadian,III,89 - 86,KANG QINGYUN,Centennial H.S.,Calgary,12,KANG QINGYUN Centennial H.S. Calgary 12
+Canadian,III,89 - 86,LI ZEHUA,,Vancouver,11,LI ZEHUA Vancouver 11
+Canadian,III,89 - 86,LIAO XINYI,Insight Academy of Canada,Scarborough,12,LIAO XINYI Insight Academy of Canada Scarborough 12
+Canadian,III,89 - 86,LIN SHIJIE,Lord Byng S.S.,Vancouver,11,LIN SHIJIE Lord Byng S.S. Vancouver 11
+Canadian,III,89 - 86,LIU JEFFREY,Marc Garneau C.I.,North York,11,LIU JEFFREY Marc Garneau C.I. North York 11
+Canadian,III,89 - 86,LUO ANDREW,Fleetwood Park S.S.,Surrey,11,LUO ANDREW Fleetwood Park S.S. Surrey 11
+Canadian,III,89 - 86,PARSAEE ALI,Western Canada H.S.,Calgary,12,PARSAEE ALI Western Canada H.S. Calgary 12
+Canadian,III,89 - 86,REMOROV ANDREY,St. Theresa of Lisieux C.H.S.,Richmond Hill,11,REMOROV ANDREY St. Theresa of Lisieux C.H.S. Richmond Hill 11
+Canadian,III,89 - 86,SHEN CHARLIE,London Dist. Christian S.S.,London,12,SHEN CHARLIE London Dist. Christian S.S. London 12
+Canadian,III,89 - 86,TAN YIMING,Lord Byng S.S.,Vancouver,11,TAN YIMING Lord Byng S.S. Vancouver 11
+Canadian,III,89 - 86,TANG YIMING,Colonel By S.S.,Gloucester,11,TANG YIMING Colonel By S.S. Gloucester 11
+Canadian,III,89 - 86,WANG SEAN,Point Grey S.S.,Vancouver,10,WANG SEAN Point Grey S.S. Vancouver 10
+Canadian,III,89 - 86,WANG VICTOR,Sir Winston Churchill S.S.,Vancouver,11,WANG VICTOR Sir Winston Churchill S.S. Vancouver 11
+Canadian,III,89 - 86,WEI ANDREW,St. George's School,Vancouver,11,WEI ANDREW St. George's School Vancouver 11
+Canadian,III,89 - 86,WEI BEN,Waterloo C.I.,Waterloo,12,WEI BEN Waterloo C.I. Waterloo 12
+Canadian,III,89 - 86,WEN HENRY,Burnaby South S.S.,Burnaby,12,WEN HENRY Burnaby South S.S. Burnaby 12
+Canadian,III,89 - 86,WEN WILLIAM,Pierre Elliott Trudeau H.S.,Markham,12,WEN WILLIAM Pierre Elliott Trudeau H.S. Markham 12
+Canadian,III,89 - 86,XU JIAJIE,Royal Crown Academic School North,York,12,XU JIAJIE Royal Crown Academic School North York 12
+Canadian,III,89 - 86,XU JUSTIN,Turner Fenton S.S.,Brampton,11,XU JUSTIN Turner Fenton S.S. Brampton 11
+Canadian,III,89 - 86,XU KELVIN,Westdale S.S.,Hamilton,12,XU KELVIN Westdale S.S. Hamilton 12
+Canadian,III,89 - 86,XU SCOTT,Vincent Massey S.S.,Windsor,10,XU SCOTT Vincent Massey S.S. Windsor 10
+Canadian,III,89 - 86,YANG JONATHAN,Port Moody Sr. S.S.,Port Moody,12,YANG JONATHAN Port Moody Sr. S.S. Port Moody 12
+Canadian,III,89 - 86,YANZI YANG,Insight Academy of Canada,Scarborough,11,YANZI YANG Insight Academy of Canada Scarborough 11
+Canadian,III,89 - 86,YE MING,YANG Bayview S.S.,Richmond Hill,11,YE MING YANG Bayview S.S. Richmond Hill 11
+Canadian,III,89 - 86,YU SHILONG,William Lyon Mackenzie C.I.,North York,11,YU SHILONG William Lyon Mackenzie C.I. North York 11
+Canadian,III,89 - 86,ZHANG JEFF,,Vancouver,9,ZHANG JEFF Vancouver 9
+Canadian,III,89 - 86,ZHANG JINGYA,Georges Vanier S.S.,North York,12,ZHANG JINGYA Georges Vanier S.S. North York 12
+Canadian,III,89 - 86,ZHANG MATTHEW,Mulgrave School West,Vancouver,11,ZHANG MATTHEW Mulgrave School West Vancouver 11
+Canadian,III,89 - 86,ZHANG ZIJIA,Mcdonald Int'l Academy,Toronto,12,ZHANG ZIJIA Mcdonald Int'l Academy Toronto 12
+Canadian,III,89 - 86,ZHAO WANYU,Appleby College,Oakville,11,ZHAO WANYU Appleby College Oakville 11
+Canadian,III,89 - 86,ZHOU ZIXIANG,,London,9,ZHOU ZIXIANG London 9
+Canadian,III,89 - 86,ZHU HAORAN,Thornhill S.S.,Thornhill,12,ZHU HAORAN Thornhill S.S. Thornhill 12
+Canadian,IV,85 - 82,AMANI PEDRAM,West Vancouver S.S.,West Vancouver,12,AMANI PEDRAM West Vancouver S.S. West Vancouver 12
+Canadian,IV,85 - 82,BAI RONGZHUO,A.B. Lucas S.S.,London,11,BAI RONGZHUO A.B. Lucas S.S. London 11
+Canadian,IV,85 - 82,BARRY TIM,Eric Hamber S.S.,Vancouver,12,BARRY TIM Eric Hamber S.S. Vancouver 12
+Canadian,IV,85 - 82,CAO JOHN,Centennial C. and V.I.,Guelph,11,CAO JOHN Centennial C. and V.I. Guelph 11
+Canadian,IV,85 - 82,CHENG OLIVER,Old Scona Academic H.S.,Edmonton,9,CHENG OLIVER Old Scona Academic H.S. Edmonton 9
+Canadian,IV,85 - 82,CONNELL TOMBS,MATTHEW Sacred Heart C.H.S.,Newmarket,11,CONNELL TOMBS MATTHEW Sacred Heart C.H.S. Newmarket 11
+Canadian,IV,85 - 82,DAI CHUANWEN,Vincent Massey S.S.,Windsor,11,DAI CHUANWEN Vincent Massey S.S. Windsor 11
+Canadian,IV,85 - 82,DAI YI,Milliken Mills H.S.,Markham,11,DAI YI Milliken Mills H.S. Markham 11
+Canadian,IV,85 - 82,DE SILVA,THINULA Marc Garneau C.I.,North York,12,DE SILVA THINULA Marc Garneau C.I. North York 12
+Canadian,IV,85 - 82,FANG CHENGZHI,Bishop Allen Academy,Etobicoke,11,FANG CHENGZHI Bishop Allen Academy Etobicoke 11
+Canadian,IV,85 - 82,FARHADI HOOMAN,Webber Academy,Calgary,11,FARHADI HOOMAN Webber Academy Calgary 11
+Canadian,IV,85 - 82,GAO MAX,Richmond Hill H.S.,Richmond Hill,12,GAO MAX Richmond Hill H.S. Richmond Hill 12
+Canadian,IV,85 - 82,GAO RUI,Pierre Elliott Trudeau H.S.,Markham,12,GAO RUI Pierre Elliott Trudeau H.S. Markham 12
+Canadian,IV,85 - 82,GU WENYUE,Lord Byng S.S.,Vancouver,11,GU WENYUE Lord Byng S.S. Vancouver 11
+Canadian,IV,85 - 82,GUO VICTOR,Marc Garneau C.I.,North York,10,GUO VICTOR Marc Garneau C.I. North York 10
+Canadian,IV,85 - 82,HAN ESTHER,Sentinel S.S.,West Vancouver,11,HAN ESTHER Sentinel S.S. West Vancouver 11
+Canadian,IV,85 - 82,HAN YUSHUO,Longfields-Davidson Heights S.,Nepean,11,HAN YUSHUO Longfields-Davidson Heights S. Nepean 11
+Canadian,IV,85 - 82,HE JUNWEI,Imperial College Of Toronto,Etobicoke,12,HE JUNWEI Imperial College Of Toronto Etobicoke 12
+Canadian,IV,85 - 82,HE SIYAN,Pierre Elliott Trudeau H.S.,Markham,12,HE SIYAN Pierre Elliott Trudeau H.S. Markham 12
+Canadian,IV,85 - 82,HONG HUNTER,Fraser Heights S.S.,Surrey,11,HONG HUNTER Fraser Heights S.S. Surrey 11
+Canadian,IV,85 - 82,HU HENRY,Waterloo C.I.,Waterloo,9,HU HENRY Waterloo C.I. Waterloo 9
+Canadian,IV,85 - 82,HU YUE,New Oriental Int'l College,Scarborough,12,HU YUE New Oriental Int'l College Scarborough 12
+Canadian,IV,85 - 82,HUANG KENT,John F. Ross C.V.I.,Guelph,12,HUANG KENT John F. Ross C.V.I. Guelph 12
+Canadian,IV,85 - 82,HUANG YUQING,Lower Canada College,Montreal,11,HUANG YUQING Lower Canada College Montreal 11
+Canadian,IV,85 - 82,JAIN KEVIN,Richmond Hill H.S.,Richmond Hill,11,JAIN KEVIN Richmond Hill H.S. Richmond Hill 11
+Canadian,IV,85 - 82,JI LI,Bur Oak S.S.,Markham,12,JI LI Bur Oak S.S. Markham 12
+Canadian,IV,85 - 82,JIA DONGLIN,Bishop Allen Academy,Etobicoke,12,JIA DONGLIN Bishop Allen Academy Etobicoke 12
+Canadian,IV,85 - 82,JIANG EDWARD,Moscrop S.S.,Burnaby,12,JIANG EDWARD Moscrop S.S. Burnaby 12
+Canadian,IV,85 - 82,JIN DANIEL,Marc Garneau C.I.,North York,10,JIN DANIEL Marc Garneau C.I. North York 10
+Canadian,IV,85 - 82,KANDOLA TRIMAN,Vincent Massey S.S.,Windsor,12,KANDOLA TRIMAN Vincent Massey S.S. Windsor 12
+Canadian,IV,85 - 82,KEHRIG BRIAN,The Renert School,Calgary,12,KEHRIG BRIAN The Renert School Calgary 12
+Canadian,IV,85 - 82,KIM ANDREW,Walter Murray C.I.,Saskatoon,12,KIM ANDREW Walter Murray C.I. Saskatoon 12
+Canadian,IV,85 - 82,LEE DANNY,R.E. Mountain S.S.,Langley,11,LEE DANNY R.E. Mountain S.S. Langley 11
+Canadian,IV,85 - 82,LEE HYEOK,JUN Westdale S.S.,Hamilton,12,LEE HYEOK JUN Westdale S.S. Hamilton 12
+Canadian,IV,85 - 82,LI GUOLUN,Lord Byng S.S.,Vancouver,12,LI GUOLUN Lord Byng S.S. Vancouver 12
+Canadian,IV,85 - 82,LI MICHAEL,Marc Garneau C.I.,North York,9,LI MICHAEL Marc Garneau C.I. North York 9
+Canadian,IV,85 - 82,LIANG JINGZHI,Marc Garneau C.I.,North York,10,LIANG JINGZHI Marc Garneau C.I. North York 10
+Canadian,IV,85 - 82,LIU MARLEY,Colonel By S.S.,Gloucester,12,LIU MARLEY Colonel By S.S. Gloucester 12
+Canadian,IV,85 - 82,LIU OUJING,Heritage Woods Secondary,Port Moody,12,LIU OUJING Heritage Woods Secondary Port Moody 12
+Canadian,IV,85 - 82,LO NATHAN,Pierre Elliott Trudeau H.S.,Markham,12,LO NATHAN Pierre Elliott Trudeau H.S. Markham 12
+Canadian,IV,85 - 82,LUO YUXUAN,Royal Crown Academic School North,York,12,LUO YUXUAN Royal Crown Academic School North York 12
+Canadian,IV,85 - 82,MOSELEY CALLUM,Richmond Hill H.S.,Richmond Hill,12,MOSELEY CALLUM Richmond Hill H.S. Richmond Hill 12
+Canadian,IV,85 - 82,NGO FREDERICK,Marc Garneau C.I.,North York,12,NGO FREDERICK Marc Garneau C.I. North York 12
+Canadian,IV,85 - 82,NI YIHAN,Markville S.S.,Markham,12,NI YIHAN Markville S.S. Markham 12
+Canadian,IV,85 - 82,PANG LAWRENCE,Marc Garneau C.I.,North York,12,PANG LAWRENCE Marc Garneau C.I. North York 12
+Canadian,IV,85 - 82,QI JI,Moscrop S.S.,Burnaby,12,QI JI Moscrop S.S. Burnaby 12
+Canadian,IV,85 - 82,REN BORU,The Westside School,Vancouver,12,REN BORU The Westside School Vancouver 12
+Canadian,IV,85 - 82,SHAN WENQI,Markville S.S.,Markham,12,SHAN WENQI Markville S.S. Markham 12
+Canadian,IV,85 - 82,SHI JANE,Sir Winston Churchill H.S.,Calgary,12,SHI JANE Sir Winston Churchill H.S. Calgary 12
+Canadian,IV,85 - 82,SHYNKEVYCH DMYTRO,Braemar College,Toronto,12,SHYNKEVYCH DMYTRO Braemar College Toronto 12
+Canadian,IV,85 - 82,SULLIVAN NICHOLAS,Ashbury College,Rockcliffe,11,SULLIVAN NICHOLAS Ashbury College Rockcliffe 11
+Canadian,IV,85 - 82,SUN YIXIONG,Cameron Heights C.I.,Kitchener,12,SUN YIXIONG Cameron Heights C.I. Kitchener 12
+Canadian,IV,85 - 82,TIAN EDWARD,University of Toronto Schools,Toronto,11,TIAN EDWARD University of Toronto Schools Toronto 11
+Canadian,IV,85 - 82,TIAN ZHENGYING,Havergal College North,York,10,TIAN ZHENGYING Havergal College North York 10
+Canadian,IV,85 - 82,WANG DUANYANG,Hillfield-Strathallan Coll. H.,Hamilton,12,WANG DUANYANG Hillfield-Strathallan Coll. H. Hamilton 12
+Canadian,IV,85 - 82,WANG SIMON,Marc Garneau C.I.,North York,11,WANG SIMON Marc Garneau C.I. North York 11
+Canadian,IV,85 - 82,WANG YUXI,Surrey Christian School (Secon,Surrey,11,WANG YUXI Surrey Christian School (Secon Surrey 11
+Canadian,IV,85 - 82,XUE YUCHEN,Thornhill S.S.,Thornhill,11,XUE YUCHEN Thornhill S.S. Thornhill 11
+Canadian,IV,85 - 82,YANG BOYA,Burnaby South S.S.,Burnaby,9,YANG BOYA Burnaby South S.S. Burnaby 9
+Canadian,IV,85 - 82,YANG ERICA,Oakridge S.S.,London,12,YANG ERICA Oakridge S.S. London 12
+Canadian,IV,85 - 82,YANG JAEWOO,Kelvin H.S.,Winnipeg,13,YANG JAEWOO Kelvin H.S. Winnipeg 13
+Canadian,IV,85 - 82,YANG ZICHEN,Town Ctr. Montessori Priv. Sch,Markham,12,YANG ZICHEN Town Ctr. Montessori Priv. Sch Markham 12
+Canadian,IV,85 - 82,YOU QIZHE,Abbey Park H.S.,Oakville,11,YOU QIZHE Abbey Park H.S. Oakville 11
+Canadian,IV,85 - 82,YU XIAOCHEN,St. Robert C.H.S.,Thornhill,11,YU XIAOCHEN St. Robert C.H.S. Thornhill 11
+Canadian,IV,85 - 82,ZHAN ALBERT,Vincent Massey S.S.,Windsor,11,ZHAN ALBERT Vincent Massey S.S. Windsor 11
+Canadian,IV,85 - 82,ZHANG AN,Oakville Trafalgar H.S.,Oakville,11,ZHANG AN Oakville Trafalgar H.S. Oakville 11
+Canadian,IV,85 - 82,ZHANG KAISHEN,Yorkville International Academ,Markham,12,ZHANG KAISHEN Yorkville International Academ Markham 12
+Canadian,IV,85 - 82,ZHANG SONGQING,Georges Vanier S.S.,North York,12,ZHANG SONGQING Georges Vanier S.S. North York 12
+Canadian,IV,85 - 82,ZHANG YUANHONG,Pinetree S.S.,Coquitlam,11,ZHANG YUANHONG Pinetree S.S. Coquitlam 11
+Canadian,IV,85 - 82,ZHANG YUGE,Insight Academy of Canada,Scarborough,12,ZHANG YUGE Insight Academy of Canada Scarborough 12
+Canadian,IV,85 - 82,ZHAO JACK,Windermere S.S.,Vancouver,11,ZHAO JACK Windermere S.S. Vancouver 11
+Canadian,IV,85 - 82,ZHENG LINDA,Colonel By S.S.,Gloucester,11,ZHENG LINDA Colonel By S.S. Gloucester 11
+Canadian,IV,85 - 82,ZHOU ALICE,Waterloo C.I.,Waterloo,12,ZHOU ALICE Waterloo C.I. Waterloo 12
+Canadian,IV,85 - 82,ZHOU CONNIE,Branksome Hall,Toronto,12,ZHOU CONNIE Branksome Hall Toronto 12
+Canadian,IV,85 - 82,ZHOU JEFFREY,Western Canada H.S.,Calgary,12,ZHOU JEFFREY Western Canada H.S. Calgary 12
+Canadian,IV,85 - 82,ZHU LAN,XI Marianopolis College,Westmount,12,ZHU LAN XI Marianopolis College Westmount 12
+Canadian,IV,85 - 82,ZHUO WEIXI,Unionville H.S.,Markham,12,ZHUO WEIXI Unionville H.S. Markham 12
+Canadian,V,81 - 79,AU PATRICK,Don Mills C.I.,North York,12,AU PATRICK Don Mills C.I. North York 12
+Canadian,V,81 - 79,BAI MINYA,Vincent Massey S.S.,Windsor,11,BAI MINYA Vincent Massey S.S. Windsor 11
+Canadian,V,81 - 79,CAO JINGQUAN,Royal Elite Int'l Academy,Niagara-on-the-Lake,12,CAO JINGQUAN Royal Elite Int'l Academy Niagara-on-the-Lake 12
+Canadian,V,81 - 79,CHAU BRIAN,Woburn C.I,Scarborough,9,CHAU BRIAN Woburn C.I Scarborough 9
+Canadian,V,81 - 79,CHEN BINGZHI,White Oaks S.S.,Oakville,12,CHEN BINGZHI White Oaks S.S. Oakville 12
+Canadian,V,81 - 79,CHEN JIAWEI,Fredericton H.S.,Fredericton,11,CHEN JIAWEI Fredericton H.S. Fredericton 11
+Canadian,V,81 - 79,CHEN WEIXI,Milliken Mills H.S.,Markham,12,CHEN WEIXI Milliken Mills H.S. Markham 12
+Canadian,V,81 - 79,CHEN YILIN,Mulgrave School West,Vancouver,11,CHEN YILIN Mulgrave School West Vancouver 11
+Canadian,V,81 - 79,CHEN YUFEI,Thornlea S.S.,Thornhill,12,CHEN YUFEI Thornlea S.S. Thornhill 12
+Canadian,V,81 - 79,CHEN YUHONG,North Star Academy,Laval,12,CHEN YUHONG North Star Academy Laval 12
+Canadian,V,81 - 79,CHENG ALBERT,University of Toronto Schools,Toronto,10,CHENG ALBERT University of Toronto Schools Toronto 10
+Canadian,V,81 - 79,CHU KEVIN,Western Canada H.S.,Calgary,11,CHU KEVIN Western Canada H.S. Calgary 11
+Canadian,V,81 - 79,CHUNG YUN,EN St. Patrick's H.S.,Ottawa,11,CHUNG YUN EN St. Patrick's H.S. Ottawa 11
+Canadian,V,81 - 79,DE SILVA,BIMESH Richmond Hill H.S.,Richmond Hill,12,DE SILVA BIMESH Richmond Hill H.S. Richmond Hill 12
+Canadian,V,81 - 79,DENG LIN,Unionville H.S.,Markham,11,DENG LIN Unionville H.S. Markham 11
+Canadian,V,81 - 79,DING FRANK,University of Toronto Schools,Toronto,12,DING FRANK University of Toronto Schools Toronto 12
+Canadian,V,81 - 79,DU JIA,HUI Glenforest S.S.,Mississauga,12,DU JIA HUI Glenforest S.S. Mississauga 12
+Canadian,V,81 - 79,DUAN DANYANG,Wales College,Scarborough,12,DUAN DANYANG Wales College Scarborough 12
+Canadian,V,81 - 79,FANG JAMES,Elgin Park S.S.,Surrey,9,FANG JAMES Elgin Park S.S. Surrey 9
+Canadian,V,81 - 79,GAO ZIXUAN,Colonel Gray Sr. H.S,Charlottetown,12,GAO ZIXUAN Colonel Gray Sr. H.S Charlottetown 12
+Canadian,V,81 - 79,GOATCHER HUGH,Glebe Collegiate Institute,Ottawa,12,GOATCHER HUGH Glebe Collegiate Institute Ottawa 12
+Canadian,V,81 - 79,GU ANDI,St. Francis Xavier S.S.,Mississauga,11,GU ANDI St. Francis Xavier S.S. Mississauga 11
+Canadian,V,81 - 79,HOOPER COLEMAN,Horton H.S.,Wolfville,12,HOOPER COLEMAN Horton H.S. Wolfville 12
+Canadian,V,81 - 79,HU JASON,Killarney S.S.,Vancouver,10,HU JASON Killarney S.S. Vancouver 10
+Canadian,V,81 - 79,HUANG BRAD,Richmond Hill H.S.,Richmond Hill,12,HUANG BRAD Richmond Hill H.S. Richmond Hill 12
+Canadian,V,81 - 79,HUANG TIANQI,Bayview S.S.,Richmond Hill,12,HUANG TIANQI Bayview S.S. Richmond Hill 12
+Canadian,V,81 - 79,JIANG HENNING,Vincent Massey S.S.,Windsor,10,JIANG HENNING Vincent Massey S.S. Windsor 10
+Canadian,V,81 - 79,JIANG RYAN,William Lyon Mackenzie C.I.,North York,12,JIANG RYAN William Lyon Mackenzie C.I. North York 12
+Canadian,V,81 - 79,JIN YIFAN,Brooklyn College,Toronto,12,JIN YIFAN Brooklyn College Toronto 12
+Canadian,V,81 - 79,KANG SEO,YOUNG Port Moody Sr. S.S.,Port Moody,11,KANG SEO YOUNG Port Moody Sr. S.S. Port Moody 11
+Canadian,V,81 - 79,KANG SULLAN,Lower Canada College,Montreal,12,KANG SULLAN Lower Canada College Montreal 12
+Canadian,V,81 - 79,KE DANNY,Bell H.S.,Nepean,12,KE DANNY Bell H.S. Nepean 12
+Canadian,V,81 - 79,KIM JOSHUA,Bayview S.S.,Richmond Hill,12,KIM JOSHUA Bayview S.S. Richmond Hill 12
+Canadian,V,81 - 79,KLASSEN NATHAN,Guelph C. and V.I.,Guelph,11,KLASSEN NATHAN Guelph C. and V.I. Guelph 11
+Canadian,V,81 - 79,LANHE ZHENG,Toronto Central Academy,Toronto,11,LANHE ZHENG Toronto Central Academy Toronto 11
+Canadian,V,81 - 79,LEDGERWOOD JACOB,Vincent Massey S.S.,Windsor,12,LEDGERWOOD JACOB Vincent Massey S.S. Windsor 12
+Canadian,V,81 - 79,LEE JOON,HO Garibaldi S.S.,Maple Ridge,12,LEE JOON HO Garibaldi S.S. Maple Ridge 12
+Canadian,V,81 - 79,LEE JULIETTE,Seaquam S.S.,Delta,12,LEE JULIETTE Seaquam S.S. Delta 12
+Canadian,V,81 - 79,LI GUOHAO,Amberson College,Toronto,12,LI GUOHAO Amberson College Toronto 12
+Canadian,V,81 - 79,LI HANCHEN,Marc Garneau C.I.,North York,12,LI HANCHEN Marc Garneau C.I. North York 12
+Canadian,V,81 - 79,LI JINGLIN,Rockridge S.S.,West Vancouver,11,LI JINGLIN Rockridge S.S. West Vancouver 11
+Canadian,V,81 - 79,LI MENGQI,York Mills C.I.,North York,11,LI MENGQI York Mills C.I. North York 11
+Canadian,V,81 - 79,LI MICHAEL,William Lyon Mackenzie C.I.,North York,12,LI MICHAEL William Lyon Mackenzie C.I. North York 12
+Canadian,V,81 - 79,LI WILLIAM,Richmond Green S.S.,Richmond Hill,12,LI WILLIAM Richmond Green S.S. Richmond Hill 12
+Canadian,V,81 - 79,LI YILUN,Dundas Valley S.S.,Dundas,12,LI YILUN Dundas Valley S.S. Dundas 12
+Canadian,V,81 - 79,LIANG DAREN,Fredericton H.S.,Fredericton,11,LIANG DAREN Fredericton H.S. Fredericton 11
+Canadian,V,81 - 79,LIANG KATHERINE,Western Canada H.S.,Calgary,11,LIANG KATHERINE Western Canada H.S. Calgary 11
+Canadian,V,81 - 79,LIANG XI,XIN David Thompson S.S.,Vancouver,12,LIANG XI XIN David Thompson S.S. Vancouver 12
+Canadian,V,81 - 79,LIAO YONGXIAN,Handsworth S.S.,North Vancouver,11,LIAO YONGXIAN Handsworth S.S. North Vancouver 11
+Canadian,V,81 - 79,LIN JIALU,St. Thomas Aquinas H.S.,North Vancouver,12,LIN JIALU St. Thomas Aquinas H.S. North Vancouver 12
+Canadian,V,81 - 79,LIU SHUYU,Earl Haig S.S.,North York,12,LIU SHUYU Earl Haig S.S. North York 12
+Canadian,V,81 - 79,LIU XIAOYI,Toronto Central Academy,Toronto,12,LIU XIAOYI Toronto Central Academy Toronto 12
+Canadian,V,81 - 79,LIU YUXIN,ACE Acumen H.S.,Toronto,12,LIU YUXIN ACE Acumen H.S. Toronto 12
+Canadian,V,81 - 79,LIU ZHUOCHENG,Earl Marriott S.S.,Surrey,12,LIU ZHUOCHENG Earl Marriott S.S. Surrey 12
+Canadian,V,81 - 79,LUO LINDA,London Central S.S.,London,12,LUO LINDA London Central S.S. London 12
+Canadian,V,81 - 79,MA FRANK,St. George's School,Vancouver,11,MA FRANK St. George's School Vancouver 11
+Canadian,V,81 - 79,MA JINGYU,Mentor College,Mississauga,12,MA JINGYU Mentor College Mississauga 12
+Canadian,V,81 - 79,MAI STEVEN,University of Toronto Schools,Toronto,10,MAI STEVEN University of Toronto Schools Toronto 10
+Canadian,V,81 - 79,MEDJEDOVIC ANDEAN,Westmount S.S.,Hamilton,10,MEDJEDOVIC ANDEAN Westmount S.S. Hamilton 10
+Canadian,V,81 - 79,MEHTA HERMISH,University of Toronto Schools,Toronto,12,MEHTA HERMISH University of Toronto Schools Toronto 12
+Canadian,V,81 - 79,MO DENNIS,Richmond S.S.,Richmond,11,MO DENNIS Richmond S.S. Richmond 11
+Canadian,V,81 - 79,PAPADOPOULOS DANIEL,Centennial C. and V.I.,Guelph,12,PAPADOPOULOS DANIEL Centennial C. and V.I. Guelph 12
+Canadian,V,81 - 79,PARK SAMMY,Abbey Park H.S.,Oakville,12,PARK SAMMY Abbey Park H.S. Oakville 12
+Canadian,V,81 - 79,PU JUSTIN,William Lyon Mackenzie C.I.,North York,12,PU JUSTIN William Lyon Mackenzie C.I. North York 12
+Canadian,V,81 - 79,QIAN YANSONG,Halifax Grammar School,Halifax,12,QIAN YANSONG Halifax Grammar School Halifax 12
+Canadian,V,81 - 79,QIAO ZHUOHUA,Rothesay Netherwood School,Rothesay,12,QIAO ZHUOHUA Rothesay Netherwood School Rothesay 12
+Canadian,V,81 - 79,REN CYNTHIA,St. Aloysius Gonzaga S.S.,Mississauga,11,REN CYNTHIA St. Aloysius Gonzaga S.S. Mississauga 11
+Canadian,V,81 - 79,ROBITAILLE ALEXANDER,College Jean de Brebeuf,Montreal,12,ROBITAILLE ALEXANDER College Jean de Brebeuf Montreal 12
+Canadian,V,81 - 79,SHEN ERIC,University of Toronto Schools,Toronto,9,SHEN ERIC University of Toronto Schools Toronto 9
+Canadian,V,81 - 79,SHETH VISHWA,Central Peel S.S.,Brampton,12,SHETH VISHWA Central Peel S.S. Brampton 12
+Canadian,V,81 - 79,SHI PENGYUAN,Bur Oak S.S.,Markham,12,SHI PENGYUAN Bur Oak S.S. Markham 12
+Canadian,V,81 - 79,STECKEL CAMRYN,Oakridge S.S.,London,12,STECKEL CAMRYN Oakridge S.S. London 12
+Canadian,V,81 - 79,SU HAO,CONG Victoria Park C.I.,North York,12,SU HAO CONG Victoria Park C.I. North York 12
+Canadian,V,81 - 79,SU ZHIHAO,Crescent School North,York,10,SU ZHIHAO Crescent School North York 10
+Canadian,V,81 - 79,TAO SEAN,Bayview S.S.,Richmond Hill,11,TAO SEAN Bayview S.S. Richmond Hill 11
+Canadian,V,81 - 79,WAN LIHONG,Toronto Dist. Christian H.S.,Woodbridge,12,WAN LIHONG Toronto Dist. Christian H.S. Woodbridge 12
+Canadian,V,81 - 79,WANG JOSEPH,Bayview S.S.,Richmond Hill,11,WANG JOSEPH Bayview S.S. Richmond Hill 11
+Canadian,V,81 - 79,WANG QINCHEN,Elmwood School,Rockcliffe,12,WANG QINCHEN Elmwood School Rockcliffe 12
+Canadian,V,81 - 79,WANG RUI,Sir Winston Churchill S.S.,Vancouver,12,WANG RUI Sir Winston Churchill S.S. Vancouver 12
+Canadian,V,81 - 79,WANG SHUSHAN,Sir Winston Churchill S.S.,Vancouver,10,WANG SHUSHAN Sir Winston Churchill S.S. Vancouver 10
+Canadian,V,81 - 79,WONG ERIC,,Vancouver,11,WONG ERIC Vancouver 11
+Canadian,V,81 - 79,WONG TSZ,FOON Unionville H.S.,Markham,12,WONG TSZ FOON Unionville H.S. Markham 12
+Canadian,V,81 - 79,WU DEREK,Sir Robert Borden H.S.,Nepean,10,WU DEREK Sir Robert Borden H.S. Nepean 10
+Canadian,V,81 - 79,WU ERIC,Iroquois Ridge H.S.,Oakville,11,WU ERIC Iroquois Ridge H.S. Oakville 11
+Canadian,V,81 - 79,WU PETER,Richmond Hill H.S.,Richmond Hill,11,WU PETER Richmond Hill H.S. Richmond Hill 11
+Canadian,V,81 - 79,XIE XINYUE,Kuper Academy,Kirkland,11,XIE XINYUE Kuper Academy Kirkland 11
+Canadian,V,81 - 79,XU CHENRUI,Father John Redmond H.S.,Etobicoke,11,XU CHENRUI Father John Redmond H.S. Etobicoke 11
+Canadian,V,81 - 79,XU SAMUEL,Vincent Massey S.S.,Windsor,12,XU SAMUEL Vincent Massey S.S. Windsor 12
+Canadian,V,81 - 79,XU YIFAN,Northview Heights S.S.,North York,12,XU YIFAN Northview Heights S.S. North York 12
+Canadian,V,81 - 79,XU ZIYI,Royal Crown Academic School North,York,12,XU ZIYI Royal Crown Academic School North York 12
+Canadian,V,81 - 79,YAN XUEZHI,Citadel H.S.,Halifax,11,YAN XUEZHI Citadel H.S. Halifax 11
+Canadian,V,81 - 79,YANG DANIEL,University of Toronto Schools,Toronto,9,YANG DANIEL University of Toronto Schools Toronto 9
+Canadian,V,81 - 79,YANG JIAJIE,Toronto Central Academy,Toronto,12,YANG JIAJIE Toronto Central Academy Toronto 12
+Canadian,V,81 - 79,YANG PETER,Semiahmoo S.S.,Surrey,11,YANG PETER Semiahmoo S.S. Surrey 11
+Canadian,V,81 - 79,YANG YAHUI,Royal Crown Academic School North,York,12,YANG YAHUI Royal Crown Academic School North York 12
+Canadian,V,81 - 79,YOU ALEX,Richmond S.S.,Richmond,11,YOU ALEX Richmond S.S. Richmond 11
+Canadian,V,81 - 79,YOUNG MICHAEL,Vincent Massey S.S.,Windsor,12,YOUNG MICHAEL Vincent Massey S.S. Windsor 12
+Canadian,V,81 - 79,YU ZHENGZHENG,Brantford C.I. and V.S.,Brantford,11,YU ZHENGZHENG Brantford C.I. and V.S. Brantford 11
+Canadian,V,81 - 79,ZAITSEVA DARIA,University of Toronto Schools,Toronto,12,ZAITSEVA DARIA University of Toronto Schools Toronto 12
+Canadian,V,81 - 79,ZHANG GARLAND,Markville S.S.,Markham,12,ZHANG GARLAND Markville S.S. Markham 12
+Canadian,V,81 - 79,ZHANG JENNIFER,Port Moody Sr. S.S.,Port Moody,11,ZHANG JENNIFER Port Moody Sr. S.S. Port Moody 11
+Canadian,V,81 - 79,ZHOU BINGYAO,Sentinel S.S.,West Vancouver,12,ZHOU BINGYAO Sentinel S.S. West Vancouver 12
+Canadian,V,81 - 79,ZHOU HUIYI,Langstaff S.S.,Richmond Hill,12,ZHOU HUIYI Langstaff S.S. Richmond Hill 12
+Canadian,V,81 - 79,ZHOU LIYANG,Collingwood School West,Vancouver,11,ZHOU LIYANG Collingwood School West Vancouver 11
+Canadian,V,81 - 79,ZHOU MICHAEL,Sir John A. Macdonald S.S.,Waterloo,12,ZHOU MICHAEL Sir John A. Macdonald S.S. Waterloo 12
+Canadian,V,81 - 79,ZHOU SALLY,Victoria Park C.I.,North York,11,ZHOU SALLY Victoria Park C.I. North York 11
+Canadian,V,81 - 79,ZHOU YOU,Vincent Massey S.S.,Windsor,11,ZHOU YOU Vincent Massey S.S. Windsor 11
+Canadian,V,81 - 79,ZHOU ZEHAO,A.Y. Jackson S.S.,North York,11,ZHOU ZEHAO A.Y. Jackson S.S. North York 11
+Canadian,V,81 - 79,ZHU YUYING,Ontario International College,Toronto,12,ZHU YUYING Ontario International College Toronto 12
+Canadian,V,81 - 79,ZHU ZHIYUE,London Int'l Academy,London,12,ZHU ZHIYUE London Int'l Academy London 12
+Canadian,V,81 - 79,ZOU ALVIN,Prince of Wales S.S.,Vancouver,10,ZOU ALVIN Prince of Wales S.S. Vancouver 10
+Canadian,V,81 - 79,ZOU JIAMING,Pierre Elliott Trudeau H.S.,Markham,12,ZOU JIAMING Pierre Elliott Trudeau H.S. Markham 12

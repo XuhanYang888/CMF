@@ -143,6 +143,28 @@ body {
   gap: 0.5rem;
   display: flex;
 }
+.rank {
+  color: #546264;
+  min-width: 1.75rem;
+  font-family:
+    IBM Plex Mono,
+    ui-monospace,
+    SFMono-Regular,
+    Menlo,
+    Monaco,
+    Consolas,
+    Liberation Mono,
+    Courier New,
+    monospace;
+  font-size: 0.92rem;
+  font-weight: 500;
+}
+.leaderboard {
+  margin-top: 1.4rem;
+}
+.results > .leaderboard:first-child {
+  margin-top: 0;
+}
 .rating-pill {
   color: #0f4f57;
   background: #def1f0;
